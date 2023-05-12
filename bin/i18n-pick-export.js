@@ -7,8 +7,8 @@ const config = require('../i18n.config')();
 
 const dir = config.targetDir;
 
-const targetPath = `${dir}/zh_CN.js`;
-const srcPath = path.join(process.cwd(), dir, 'zh-CH.json');
+const targetPath = `${dir}/en.js`;
+const srcPath = path.join(process.cwd(), dir, 'en.json');
 let data = [];
 try {
   data = require(srcPath);
@@ -24,5 +24,5 @@ data.forEach(d=> {
 // DONE: 重写 targetPath 文件
 fs.writeFile(targetPath, JSON.stringify(result, null, '\t'), function(err) {
   if (err) return console.error(err);
-  console.log('----导出到 zh_CN.js ----')
+  console.log('----导出到 en.js ----')
 })

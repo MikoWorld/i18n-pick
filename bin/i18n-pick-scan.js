@@ -6,6 +6,8 @@ const scan = require('../lib/react');
 
 program.parse(process.argv);
 
-const path = program.args[0] || '.';
+const paths = program.args || '.';
 
-scan.run(path);
+for (const path of paths) {
+    scan.run(path);
+}

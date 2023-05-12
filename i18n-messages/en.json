@@ -1,0 +1,7180 @@
+[
+	{
+		"id": "Connect multiple accounts to your user and sign in with any of them",
+		"defaultMessage": "Connect multiple accounts to your user and sign in with any of them",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/AccountsCard.tsx#24#41#26#10"
+			}
+		]
+	},
+	{
+		"id": "Connect",
+		"defaultMessage": "Connect",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/AccountsCard.tsx#49#29#51#28"
+			}
+		]
+	},
+	{
+		"id": "Remove",
+		"defaultMessage": "Remove",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/AccountsCard.tsx#58#29#60#28"
+			}
+		]
+	},
+	{
+		"id": "Unable to generate API Key",
+		"defaultMessage": "Unable to generate API Key",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Account/ApiKeyModal.tsx#43#8#43#43"
+			}
+		]
+	},
+	{
+		"id": "Here is your API Key:",
+		"defaultMessage": "Here is your API Key:",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ApiKeyModal.tsx#67#29#67#50"
+			}
+		]
+	},
+	{
+		"id": "Your API Key name",
+		"defaultMessage": "Your API Key name",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ApiKeyModal.tsx#93#48#93#79"
+			}
+		]
+	},
+	{
+		"id": "Cancel",
+		"defaultMessage": "Cancel",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ApiKeyModal.tsx#95#82#97#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/SocialLinkModal.tsx#68#56#70#12"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CommentSection/CommentSection.tsx#169#19#171#18"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CommentSection/CommentSectionItem.tsx#226#87#228#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CommentsV2/Comment/CommentForm.tsx#159#71#161#12"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/BlockModelTagsModal.tsx#75#64#77#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/ReorderVersionsModal.tsx#127#52#129#8"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/ReportModal.tsx#266#64#268#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/AnswerForm.tsx#84#57#86#12"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/EditResourceReview.tsx#139#85#141#22"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/EditResourceReviewModal.tsx#35#60#37#10"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/EditUserResourceReview.tsx#140#85#142#22"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/models.tsx#172#72#174#16"
+			}
+		]
+	},
+	{
+		"id": "Save",
+		"defaultMessage": "Save",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ApiKeyModal.tsx#98#72#100#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ProfileCard.tsx#302#15#304#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#295#56#297#18"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/BlockModelTagsModal.tsx#78#78#80#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/ReorderVersionsModal.tsx#130#94#132#8"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/OnboardingModal/OnboardingModal.tsx#236#19#238#18"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditImageDrawer.tsx#321#70#323#8"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/QuestionForm.tsx#157#60#159#18"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Files.tsx#459#76#461#10"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/EditResourceReview.tsx#147#23#149#22"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/EditUserResourceReview.tsx#148#23#150#22"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/edit.tsx#101#66#103#18"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/link-demo.tsx#134#52#136#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/reports.tsx#379#99#381#16"
+			}
+		]
+	},
+	{
+		"id": "Delete API Key",
+		"defaultMessage": "Delete API Key",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Account/ApiKeysCard.tsx#38#6#38#29"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Account/ApiKeysCard.tsx#41#16#41#41"
+			}
+		]
+	},
+	{
+		"id": "Are you sure you want to delete this API Key?",
+		"defaultMessage": "Are you sure you want to delete this API Key?",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ApiKeysCard.tsx#39#32#39#77"
+			}
+		]
+	},
+	{
+		"id": "API Keys",
+		"defaultMessage": "API Keys",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ApiKeysCard.tsx#52#29#52#37"
+			}
+		]
+	},
+	{
+		"id": "Add API key",
+		"defaultMessage": "Add API key",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ApiKeysCard.tsx#58#13#60#12"
+			}
+		]
+	},
+	{
+		"id": "You can use API keys to interact with the site through the API as your user. These should not be shared with anyone.",
+		"defaultMessage": "You can use API keys to interact with the site through the API as your user. These should not be shared with anyone.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ApiKeysCard.tsx#62#41#65#10"
+			}
+		]
+	},
+	{
+		"id": "There are no API keys in your account",
+		"defaultMessage": "There are no API keys in your account",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ApiKeysCard.tsx#102#38#102#75"
+			}
+		]
+	},
+	{
+		"id": "Start by creating your first API Key to connect your apps.",
+		"defaultMessage": "Start by creating your first API Key to connect your apps.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ApiKeysCard.tsx#103#49#105#18"
+			}
+		]
+	},
+	{
+		"id": "Create API Key",
+		"defaultMessage": "Create API Key",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ApiKeysCard.tsx#112#19#112#41"
+			}
+		]
+	},
+	{
+		"id": "Do you want to delete all the models you have created along with your account?",
+		"defaultMessage": "Do you want to delete all the models you have created along with your account?",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Account/DeleteCard.tsx#33#10#34#92"
+			}
+		]
+	},
+	{
+		"id": "No, leave them up",
+		"defaultMessage": "No, leave them up",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Account/DeleteCard.tsx#38#46#38#74"
+			}
+		]
+	},
+	{
+		"id": "Once you delete your account, there is no going back. Please be certain when taking this action.",
+		"defaultMessage": "Once you delete your account, there is no going back. Please be certain when taking this action.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/DeleteCard.tsx#56#24#59#8"
+			}
+		]
+	},
+	{
+		"id": "Delete your account",
+		"defaultMessage": "Delete your account",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/DeleteCard.tsx#60#76#62#8"
+			}
+		]
+	},
+	{
+		"id": "Search tags to hide",
+		"defaultMessage": "Search tags to hide",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/HiddenTagsSection.tsx#78#10#78#43"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/TagsCard.tsx#82#10#82#43"
+			}
+		]
+	},
+	{
+		"id": "Search users to hide",
+		"defaultMessage": "Search users to hide",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/HiddenUsersSection.tsx#72#10#72#44"
+			}
+		]
+	},
+	{
+		"id": "Content Moderation",
+		"defaultMessage": "Content Moderation",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ModerationCard.tsx#90#25#90#43"
+			}
+		]
+	},
+	{
+		"id": "Beta",
+		"defaultMessage": "Beta",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ModerationCard.tsx#91#40#93#8"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppHeader.tsx#234#44#236#12"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/OnboardingModal/OnboardingModal.tsx#251#52#253#20"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/questions/index.tsx#53#99#55#14"
+			}
+		]
+	},
+	{
+		"id": "Toggle all that you are comfortable seeing",
+		"defaultMessage": "Toggle all that you are comfortable seeing",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ModerationCard.tsx#158#80#160#20"
+			}
+		]
+	},
+	{
+		"id": "User profile updated",
+		"defaultMessage": "User profile updated",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Account/NotificationsCard.tsx#34#32#34#63"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Account/SettingsCard.tsx#20#32#20#63"
+			}
+		]
+	},
+	{
+		"id": "Notifications Settings",
+		"defaultMessage": "Notifications Settings",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/NotificationsCard.tsx#51#52#53#8"
+			}
+		]
+	},
+	{
+		"id": "Your profile has been saved",
+		"defaultMessage": "Your profile has been saved",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Account/ProfileCard.tsx#60#32#60#70"
+			}
+		]
+	},
+	{
+		"id": "Select style",
+		"defaultMessage": "Select style",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ProfileCard.tsx#136#16#136#42"
+			}
+		]
+	},
+	{
+		"id": "Nameplate Style",
+		"defaultMessage": "Nameplate Style",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ProfileCard.tsx#139#33#139#48"
+			}
+		]
+	},
+	{
+		"id": "Nameplates",
+		"defaultMessage": "Nameplates",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ProfileCard.tsx#150#53#152#24"
+			}
+		]
+	},
+	{
+		"id": "Nameplates change the appearance of your username. They can include special colors or effects. You can earn nameplates by being a subscriber or earning trophies on the site.",
+		"defaultMessage": "Nameplates change the appearance of your username. They can include special colors or effects. You can earn nameplates by being a subscriber or earning trophies on the site.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ProfileCard.tsx#153#40#157#24"
+			}
+		]
+	},
+	{
+		"id": "Your earned nameplate styles will appear here",
+		"defaultMessage": "Your earned nameplate styles will appear here",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ProfileCard.tsx#162#16#162#76"
+			}
+		]
+	},
+	{
+		"id": "Profile Image",
+		"defaultMessage": "Profile Image",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ProfileCard.tsx#174#52#174#73"
+			}
+		]
+	},
+	{
+		"id": "Badges",
+		"defaultMessage": "Badges",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ProfileCard.tsx#191#53#193#24"
+			}
+		]
+	},
+	{
+		"id": "Badges appear next your username and can even include special effects. You can earn badges by being a subscriber or earning trophies on the site.",
+		"defaultMessage": "Badges appear next your username and can even include special effects. You can earn badges by being a subscriber or earning trophies on the site.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ProfileCard.tsx#194#40#197#24"
+			}
+		]
+	},
+	{
+		"id": "Remove badge",
+		"defaultMessage": "Remove badge",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ProfileCard.tsx#208#21#210#20"
+			}
+		]
+	},
+	{
+		"id": "Your earned badges will appear here",
+		"defaultMessage": "Your earned badges will appear here",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ProfileCard.tsx#287#55#289#24"
+			}
+		]
+	},
+	{
+		"id": "Your account has been removed",
+		"defaultMessage": "Your account has been removed",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Account/RemoveAccountCard.tsx#15#32#15#72"
+			}
+		]
+	},
+	{
+		"id": "Enter your username exactly",
+		"defaultMessage": "Enter your username exactly",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/RemoveAccountCard.tsx#38#37#38#78"
+			}
+		]
+	},
+	{
+		"id": "Optimized (avif, webp)",
+		"defaultMessage": "Optimized (avif, webp)",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Account/SettingsCard.tsx#45#16#45#47"
+			}
+		]
+	},
+	{
+		"id": "Unoptimized (jpeg, png)",
+		"defaultMessage": "Unoptimized (jpeg, png)",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Account/SettingsCard.tsx#49#16#49#48"
+			}
+		]
+	},
+	{
+		"id": "Preferred Size",
+		"defaultMessage": "Preferred Size",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/SettingsCard.tsx#76#12#76#34"
+			}
+		]
+	},
+	{
+		"id": "Preferred FP",
+		"defaultMessage": "Preferred FP",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/SettingsCard.tsx#89#12#89#32"
+			}
+		]
+	},
+	{
+		"id": "Edit link",
+		"defaultMessage": "Edit link",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/SocialLink.tsx#29#17#29#34"
+			}
+		]
+	},
+	{
+		"id": "Delete link",
+		"defaultMessage": "Delete link",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/SocialLink.tsx#34#17#34#36"
+			}
+		]
+	},
+	{
+		"id": "Please check the fields marked with red to fix the issues.",
+		"defaultMessage": "Please check the fields marked with red to fix the issues.",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Account/SocialLinkModal.tsx#56#19#56#90"
+			}
+		]
+	},
+	{
+		"id": "Form Validation Failed",
+		"defaultMessage": "Form Validation Failed",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Account/SocialLinkModal.tsx#57#12#57#43"
+			}
+		]
+	},
+	{
+		"id": "Submit",
+		"defaultMessage": "Submit",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/SocialLinkModal.tsx#71#54#73#12"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/ReportModal.tsx#269#77#271#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/EditResourceReviewModal.tsx#38#52#40#10"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/RichTextEditor/InsertYoutubeVideoControl.tsx#49#44#51#12"
+			}
+		]
+	},
+	{
+		"id": "Add Link",
+		"defaultMessage": "Add Link",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/SocialProfileCard.tsx#40#70#42#12"
+			}
+		]
+	},
+	{
+		"id": "Creator Profile",
+		"defaultMessage": "Creator Profile",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/SocialProfileCard.tsx#71#27#71#42"
+			}
+		]
+	},
+	{
+		"id": "Since",
+		"defaultMessage": "Since",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/SubscriptionCard.tsx#28#41#29#18"
+			}
+		]
+	},
+	{
+		"id": "Paid",
+		"defaultMessage": "Paid",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/SubscriptionCard.tsx#47#43#48#19"
+			}
+		]
+	},
+	{
+		"id": "Membership",
+		"defaultMessage": "Membership",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/SubscriptionCard.tsx#65#52#67#10"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/pricing.tsx#77#77#79#12"
+			}
+		]
+	},
+	{
+		"id": "Resume",
+		"defaultMessage": "Resume",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/SubscriptionCard.tsx#70#94#72#14"
+			}
+		]
+	},
+	{
+		"id": "Manage",
+		"defaultMessage": "Manage",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/SubscriptionCard.tsx#76#87#78#14"
+			}
+		]
+	},
+	{
+		"id": "You will stop seeing models that contain tags you have blocked. Use the input below to manage them.",
+		"defaultMessage": "You will stop seeing models that contain tags you have blocked. Use the input below to manage them.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/TagsCard.tsx#74#39#77#8"
+			}
+		]
+	},
+	{
+		"id": "You can add tags by using the search input above.",
+		"defaultMessage": "You can add tags by using the search input above.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/TagsCard.tsx#117#47#119#16"
+			}
+		]
+	},
+	{
+		"id": "Welcome to Civitai!",
+		"defaultMessage": "Welcome to Civitai!",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Announcements/Announcements.tsx#47#4#47#31"
+			}
+		]
+	},
+	{
+		"id": "Browse, share, and review custom AI art models, [learn more...](/content/guides/what-is-civitai)",
+		"defaultMessage": "Browse, share, and review custom AI art models, [learn more...](/content/guides/what-is-civitai)",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Announcements/Announcements.tsx#48#4#48#110"
+			}
+		]
+	},
+	{
+		"id": "© Civitai",
+		"defaultMessage": "© Civitai",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppFooter.tsx#59#9#60#25"
+			}
+		]
+	},
+	{
+		"id": "Site Version",
+		"defaultMessage": "Site Version",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppFooter.tsx#64#66#66#12"
+			}
+		]
+	},
+	{
+		"id": "Support Us ❤️",
+		"defaultMessage": "Support Us ❤️",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppFooter.tsx#87#11#89#10"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/pricing.tsx#66#58#68#10"
+			}
+		]
+	},
+	{
+		"id": "Terms of Service",
+		"defaultMessage": "Terms of Service",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppFooter.tsx#96#11#98#10"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/RunStrategyModal.tsx#122#35#124#34"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/OnboardingModal/OnboardingModal.tsx#134#14#134#38"
+			}
+		]
+	},
+	{
+		"id": "Privacy",
+		"defaultMessage": "Privacy",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppFooter.tsx#105#11#107#10"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/RunStrategyModal.tsx#133#35#135#34"
+			}
+		]
+	},
+	{
+		"id": "GitHub",
+		"defaultMessage": "GitHub",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppFooter.tsx#108#80#110#10"
+			}
+		]
+	},
+	{
+		"id": "Discord",
+		"defaultMessage": "Discord",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppFooter.tsx#111#81#113#10"
+			}
+		]
+	},
+	{
+		"id": "Twitter",
+		"defaultMessage": "Twitter",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppFooter.tsx#114#81#116#10"
+			}
+		]
+	},
+	{
+		"id": "Reddit",
+		"defaultMessage": "Reddit",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppFooter.tsx#117#80#119#10"
+			}
+		]
+	},
+	{
+		"id": "/github/wiki/REST-API-Reference",
+		"defaultMessage": "/github/wiki/REST-API-Reference",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppFooter.tsx#122#12#122#50"
+			}
+		]
+	},
+	{
+		"id": "API",
+		"defaultMessage": "API",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppFooter.tsx#125#11#127#10"
+			}
+		]
+	},
+	{
+		"id": "Status",
+		"defaultMessage": "Status",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppFooter.tsx#128#99#130#10"
+			}
+		]
+	},
+	{
+		"id": "🪲 Bugs",
+		"defaultMessage": "🪲 Bugs",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppFooter.tsx#133#84#135#10"
+			}
+		]
+	},
+	{
+		"id": "💡 Ideas",
+		"defaultMessage": "💡 Ideas",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppFooter.tsx#142#11#144#10"
+			}
+		]
+	},
+	{
+		"id": "Upload a model",
+		"defaultMessage": "Upload a model",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppHeader.tsx#192#39#194#10"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppHeader.tsx#342#40#344#16"
+			}
+		]
+	},
+	{
+		"id": "Your profile",
+		"defaultMessage": "Your profile",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppHeader.tsx#202#88#204#10"
+			}
+		]
+	},
+	{
+		"id": "Liked models",
+		"defaultMessage": "Liked models",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppHeader.tsx#212#89#214#10"
+			}
+		]
+	},
+	{
+		"id": "Hidden models",
+		"defaultMessage": "Hidden models",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppHeader.tsx#222#98#224#10"
+			}
+		]
+	},
+	{
+		"id": "Questions",
+		"defaultMessage": "Questions",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppHeader.tsx#232#47#233#21"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/questions/index.tsx#51#52#52#23"
+			}
+		]
+	},
+	{
+		"id": "Creators you follow",
+		"defaultMessage": "Creators you follow",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppHeader.tsx#245#38#247#10"
+			}
+		]
+	},
+	{
+		"id": "Download History",
+		"defaultMessage": "Download History",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppHeader.tsx#255#40#257#10"
+			}
+		]
+	},
+	{
+		"id": "Sign In/Sign up",
+		"defaultMessage": "Sign In/Sign up",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppHeader.tsx#265#43#267#10"
+			}
+		]
+	},
+	{
+		"id": "Leaderboard",
+		"defaultMessage": "Leaderboard",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppHeader.tsx#274#38#276#10"
+			}
+		]
+	},
+	{
+		"id": "Sign In",
+		"defaultMessage": "Sign In",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppHeader.tsx#360#15#362#14"
+			}
+		]
+	},
+	{
+		"id": "Dark mode",
+		"defaultMessage": "Dark mode",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppHeader.tsx#395#57#397#20"
+			}
+		]
+	},
+	{
+		"id": "Account settings",
+		"defaultMessage": "Account settings",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppHeader.tsx#411#21#413#20"
+			}
+		]
+	},
+	{
+		"id": "Logout",
+		"defaultMessage": "Logout",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppHeader.tsx#417#21#419#20"
+			}
+		]
+	},
+	{
+		"id": "You have been banned",
+		"defaultMessage": "You have been banned",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppLayout.tsx#53#46#55#14"
+			}
+		]
+	},
+	{
+		"id": "This account has been banned and cannot access the site",
+		"defaultMessage": "This account has been banned and cannot access the site",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/AppLayout.tsx#56#45#58#14"
+			}
+		]
+	},
+	{
+		"id": "Page Not Found",
+		"defaultMessage": "Page Not Found",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/NotFound.tsx#8#12#8#34"
+			}
+		]
+	},
+	{
+		"id": "Go back home",
+		"defaultMessage": "Go back home",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/AppLayout/NotFound.tsx#14#48#16#10"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/QuestionForm.tsx#105#34#105#46"
+			}
+		]
+	},
+	{
+		"id": "Browsing Mode",
+		"defaultMessage": "Browsing Mode",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/BrowsingMode/BrowsingMode.tsx#105#19#105#40"
+			}
+		]
+	},
+	{
+		"id": "Blur Mature Content",
+		"defaultMessage": "Blur Mature Content",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/BrowsingMode/BrowsingMode.tsx#128#43#130#14"
+			}
+		]
+	},
+	{
+		"id": "Missing id",
+		"defaultMessage": "Missing id",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/CivitaiLink/civitai-link-api.ts#40#22#40#45"
+			}
+		]
+	},
+	{
+		"id": "Civitai Link",
+		"defaultMessage": "Civitai Link",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkPopover.tsx#82#37#84#10"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkProvider.tsx#117#16#117#37"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkProvider.tsx#166#48#166#69"
+			}
+		]
+	},
+	{
+		"id": "Add Instance",
+		"defaultMessage": "Add Instance",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkPopover.tsx#182#11#184#10"
+			}
+		]
+	},
+	{
+		"id": "Interact with your",
+		"defaultMessage": "Interact with your",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkPopover.tsx#244#22#245#28"
+			}
+		]
+	},
+	{
+		"id": "Automatic1111 Stable Diffusion",
+		"defaultMessage": "Automatic1111 Stable Diffusion",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkPopover.tsx#251#11#253#10"
+			}
+		]
+	},
+	{
+		"id": "instance in realtime from Civitai",
+		"defaultMessage": "instance in realtime from Civitai",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkPopover.tsx#253#22#255#8"
+			}
+		]
+	},
+	{
+		"id": "Get Started",
+		"defaultMessage": "Get Started",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkPopover.tsx#263#9#265#8"
+			}
+		]
+	},
+	{
+		"id": "Link Key",
+		"defaultMessage": "Link Key",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkPopover.tsx#287#41#289#12"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#289#56#291#18"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#302#33#302#41"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/link-demo.tsx#128#52#130#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/link-demo.tsx#141#29#141#37"
+			}
+		]
+	},
+	{
+		"id": "Troubleshooting",
+		"defaultMessage": "Troubleshooting",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkPopover.tsx#307#37#309#8"
+			}
+		]
+	},
+	{
+		"id": "Make sure your SD instance is up and running.",
+		"defaultMessage": "Make sure your SD instance is up and running.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkPopover.tsx#311#21#311#66"
+			}
+		]
+	},
+	{
+		"id": "If your instance is running and you are still unable to connect,",
+		"defaultMessage": "If your instance is running and you are still unable to connect,",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkPopover.tsx#312#21#313#76"
+			}
+		]
+	},
+	{
+		"id": "and add it to your SD instance.",
+		"defaultMessage": "and add it to your SD instance.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkPopover.tsx#321#24#323#10"
+			}
+		]
+	},
+	{
+		"id": "No activity for this instance",
+		"defaultMessage": "No activity for this instance",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkPopover.tsx#341#27#341#56"
+			}
+		]
+	},
+	{
+		"id": "Civitai Link is not enabled",
+		"defaultMessage": "Civitai Link is not enabled",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkProvider.tsx#304#8#304#44"
+			}
+		]
+	},
+	{
+		"id": "Name your stable diffusion instance",
+		"defaultMessage": "Name your stable diffusion instance",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkSuccessModal.tsx#36#33#36#76"
+			}
+		]
+	},
+	{
+		"id": "Civitai Link Setup",
+		"defaultMessage": "Civitai Link Setup",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#38#2#38#29"
+			}
+		]
+	},
+	{
+		"id": "About Civitai Link",
+		"defaultMessage": "About Civitai Link",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#68#22#68#48"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#71#56#73#14"
+			}
+		]
+	},
+	{
+		"id": "Supported Activities:",
+		"defaultMessage": "Supported Activities:",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#84#47#86#18"
+			}
+		]
+	},
+	{
+		"id": "Generate images (coming soon)",
+		"defaultMessage": "Generate images (coming soon)",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#93#20#93#60"
+			}
+		]
+	},
+	{
+		"id": "Supported Stable Diffusion UIs:",
+		"defaultMessage": "Supported Stable Diffusion UIs:",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#103#47#105#18"
+			}
+		]
+	},
+	{
+		"id": "Automatic 1111 SD Web UI",
+		"defaultMessage": "Automatic 1111 SD Web UI",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#117#23#119#22"
+			}
+		]
+	},
+	{
+		"id": "Integrate your favorite UI...",
+		"defaultMessage": "Integrate your favorite UI...",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#129#23#131#22"
+			}
+		]
+	},
+	{
+		"id": "Eh, nevermind...",
+		"defaultMessage": "Eh, nevermind...",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#140#64#142#14"
+			}
+		]
+	},
+	{
+		"id": "Prepare SD",
+		"defaultMessage": "Prepare SD",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#147#22#147#40"
+			}
+		]
+	},
+	{
+		"id": "Add the extension",
+		"defaultMessage": "Add the extension",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#147#41#147#72"
+			}
+		]
+	},
+	{
+		"id": "Prepare Stable Diffusion for Civitai Link",
+		"defaultMessage": "Prepare Stable Diffusion for Civitai Link",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#150#61#152#14"
+			}
+		]
+	},
+	{
+		"id": "Select your Stable Diffusion UI below for installation instructions",
+		"defaultMessage": "Select your Stable Diffusion UI below for installation instructions",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#153#43#155#14"
+			}
+		]
+	},
+	{
+		"id": "Prefer video instructions?",
+		"defaultMessage": "Prefer video instructions?",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#166#20#166#54"
+			}
+		]
+	},
+	{
+		"id": "Ensure Automatic 1111 is up to date",
+		"defaultMessage": "Ensure Automatic 1111 is up to date",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#183#31#183#66"
+			}
+		]
+	},
+	{
+		"id": "Start Automatic 1111 Stable Diffusion Web UI",
+		"defaultMessage": "Start Automatic 1111 Stable Diffusion Web UI",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#184#31#184#75"
+			}
+		]
+	},
+	{
+		"id": "Open the",
+		"defaultMessage": "Open the",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#185#31#186#30"
+			}
+		]
+	},
+	{
+		"id": "Extensions",
+		"defaultMessage": "Extensions",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#187#60#189#22"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#194#60#196#22"
+			}
+		]
+	},
+	{
+		"id": "In the",
+		"defaultMessage": "In the",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#192#31#193#28"
+			}
+		]
+	},
+	{
+		"id": "Install From URL",
+		"defaultMessage": "Install From URL",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#198#60#200#22"
+			}
+		]
+	},
+	{
+		"id": "Paste the following URL into the",
+		"defaultMessage": "Paste the following URL into the",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#203#31#204#54"
+			}
+		]
+	},
+	{
+		"id": "URL",
+		"defaultMessage": "URL",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#205#60#207#22"
+			}
+		]
+	},
+	{
+		"id": "Press the",
+		"defaultMessage": "Press the",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#226#31#227#31"
+			}
+		]
+	},
+	{
+		"id": "Install",
+		"defaultMessage": "Install",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#228#60#230#22"
+			}
+		]
+	},
+	{
+		"id": "After installation, restart* the Stable Diffusion Web UI",
+		"defaultMessage": "After installation, restart* the Stable Diffusion Web UI",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#233#31#233#87"
+			}
+		]
+	},
+	{
+		"id": "*Be sure to restart so that the installation script can run.",
+		"defaultMessage": "*Be sure to restart so that the installation script can run.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#235#49#237#18"
+			}
+		]
+	},
+	{
+		"id": "Integrate Civitai Link",
+		"defaultMessage": "Integrate Civitai Link",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#247#21#249#20"
+			}
+		]
+	},
+	{
+		"id": "Go Back",
+		"defaultMessage": "Go Back",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#256#59#258#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#330#59#332#14"
+			}
+		]
+	},
+	{
+		"id": "Connect SD",
+		"defaultMessage": "Connect SD",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#266#22#266#40"
+			}
+		]
+	},
+	{
+		"id": "Link your account",
+		"defaultMessage": "Link your account",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#269#61#271#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/link-demo.tsx#108#57#110#10"
+			}
+		]
+	},
+	{
+		"id": "Time to connect your Stable Diffusion instance to your Civitai Account.",
+		"defaultMessage": "Time to connect your Stable Diffusion instance to your Civitai Account.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#272#43#274#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/link-demo.tsx#111#39#113#10"
+			}
+		]
+	},
+	{
+		"id": "In your",
+		"defaultMessage": "In your",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#276#27#277#25"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/link-demo.tsx#115#23#116#21"
+			}
+		]
+	},
+	{
+		"id": "SD Settings",
+		"defaultMessage": "SD Settings",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#278#56#280#18"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/link-demo.tsx#117#52#119#14"
+			}
+		]
+	},
+	{
+		"id": "Civitai",
+		"defaultMessage": "Civitai",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#282#56#284#18"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/link-demo.tsx#121#52#123#14"
+			}
+		]
+	},
+	{
+		"id": "Paste the Link Key below into the",
+		"defaultMessage": "Paste the Link Key below into the",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#287#27#288#51"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/link-demo.tsx#126#23#127#47"
+			}
+		]
+	},
+	{
+		"id": "Generating key",
+		"defaultMessage": "Generating key",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkWizard.tsx#323#28#323#42"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/link-demo.tsx#162#24#162#38"
+			}
+		]
+	},
+	{
+		"id": "Add to SD",
+		"defaultMessage": "Add to SD",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitiaLinkManageButton.tsx#37#4#37#22"
+			}
+		]
+	},
+	{
+		"id": "You must be logged in to add a comment",
+		"defaultMessage": "You must be logged in to add a comment",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CommentSection/CommentSection.tsx#131#67#133#22"
+			}
+		]
+	},
+	{
+		"id": "Log In",
+		"defaultMessage": "Log In",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CommentSection/CommentSection.tsx#140#23#142#22"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelCarousel/ModelCarousel.tsx#180#15#182#14"
+			}
+		]
+	},
+	{
+		"id": "Comment",
+		"defaultMessage": "Comment",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CommentSection/CommentSection.tsx#172#80#174#18"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CommentSection/CommentSectionItem.tsx#233#15#235#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CommentsV2/Comment/CommentForm.tsx#162#99#164#12"
+			}
+		]
+	},
+	{
+		"id": "Are you sure you want to delete this comment? This action is destructive and cannot be reverted.",
+		"defaultMessage": "Are you sure you want to delete this comment? This action is destructive and cannot be reverted.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CommentSection/CommentSectionItem.tsx#100#24#103#8"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/CommentDiscussionMenu.tsx#52#24#55#8"
+			}
+		]
+	},
+	{
+		"id": "OP",
+		"defaultMessage": "OP",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CommentSection/CommentSectionItem.tsx#176#48#178#16"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/Discussion/ModelDiscussionDetail.tsx#37#52#39#20"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/Discussion/ModelDiscussionsCard.tsx#70#46#72#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/CommentDiscussionItem.tsx#84#46#86#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionItem.tsx#117#48#119#16"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/ResourceReviewDetail.tsx#111#50#113#18"
+			}
+		]
+	},
+	{
+		"id": "Reply",
+		"defaultMessage": "Reply",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CommentSection/CommentSectionItem.tsx#218#49#220#18"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CommentsV2/Comment/Comment.tsx#141#51#143#20"
+			}
+		]
+	},
+	{
+		"id": "Delete comment",
+		"defaultMessage": "Delete comment",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CommentSection/CommentSectionItem.tsx#254#17#256#16"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CommentsV2/Comment/Comment.tsx#88#23#90#22"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/CommentDiscussionMenu.tsx#134#13#136#12"
+			}
+		]
+	},
+	{
+		"id": "Edit comment",
+		"defaultMessage": "Edit comment",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CommentSection/CommentSectionItem.tsx#261#19#263#18"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CommentsV2/Comment/Comment.tsx#97#21#99#20"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/CommentDiscussionMenu.tsx#141#15#143#14"
+			}
+		]
+	},
+	{
+		"id": "Report",
+		"defaultMessage": "Report",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CommentSection/CommentSectionItem.tsx#277#17#279#16"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CommentsV2/Comment/Comment.tsx#113#19#115#18"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/Discussion/ModelDiscussionContextMenu.tsx#48#94#50#12"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/CommentDiscussionMenu.tsx#173#13#175#12"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/ResourceReviewMenu.tsx#175#13#177#12"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#604#25#606#24"
+			}
+		]
+	},
+	{
+		"id": "You cannot add comments because you have been muted",
+		"defaultMessage": "You cannot add comments because you have been muted",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CommentsV2/Comment/CommentForm.tsx#132#16#132#67"
+			}
+		]
+	},
+	{
+		"id": "CommentV2Context not in tree",
+		"defaultMessage": "CommentV2Context not in tree",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/CommentsV2/Comment/CommentProvider.tsx#18#22#18#63"
+			}
+		]
+	},
+	{
+		"id": "You must",
+		"defaultMessage": "You must",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CommentsV2/Comment/CreateComment.tsx#25#26#26#20"
+			}
+		]
+	},
+	{
+		"id": "Your comment has been deleted",
+		"defaultMessage": "Your comment has been deleted",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/CommentsV2/Comment/DeleteComment.tsx#29#8#29#46"
+			}
+		]
+	},
+	{
+		"id": "Successfully deleted the comment",
+		"defaultMessage": "Successfully deleted the comment",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/CommentsV2/Comment/DeleteComment.tsx#30#8#30#51"
+			}
+		]
+	},
+	{
+		"id": "An unexpected error occurred, please try again",
+		"defaultMessage": "An unexpected error occurred, please try again",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/CommentsV2/Comment/DeleteComment.tsx#46#8#46#64"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Questions/DeleteAnswer.tsx#20#8#20#64"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Questions/DeleteQuestion.tsx#24#8#24#64"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#209#8#209#64"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#317#8#317#64"
+			}
+		]
+	},
+	{
+		"id": "Are you sure you want to delete this comment?",
+		"defaultMessage": "Are you sure you want to delete this comment?",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/CommentsV2/Comment/DeleteComment.tsx#54#32#54#77"
+			}
+		]
+	},
+	{
+		"id": "useCommentsContext can only be used inside CommentsProvider",
+		"defaultMessage": "useCommentsContext can only be used inside CommentsProvider",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/CommentsV2/CommentsProvider.tsx#71#22#71#94"
+			}
+		]
+	},
+	{
+		"id": "Show More",
+		"defaultMessage": "Show More",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ContentClamp/ContentClamp.tsx#6#6#6#27"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/Discussion/ModelDiscussionComments.tsx#38#88#40#22"
+			}
+		]
+	},
+	{
+		"id": "Be sure to check your spam...",
+		"defaultMessage": "Be sure to check your spam...",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/EmailLogin/EmailLogin.tsx#30#43#32#12"
+			}
+		]
+	},
+	{
+		"id": "You are all caught up",
+		"defaultMessage": "You are all caught up",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/EndOfFeed/EndOfFeed.tsx#11#48#13#10"
+			}
+		]
+	},
+	{
+		"id": "Consider changing your period or filters to find more",
+		"defaultMessage": "Consider changing your period or filters to find more",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/EndOfFeed/EndOfFeed.tsx#20#41#22#10"
+			}
+		]
+	},
+	{
+		"id": "Back to the top",
+		"defaultMessage": "Back to the top",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/EndOfFeed/EndOfFeed.tsx#30#11#32#10"
+			}
+		]
+	},
+	{
+		"id": "File Size",
+		"defaultMessage": "File Size",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/FileInfo/FileInfo.tsx#15#6#15#24"
+			}
+		]
+	},
+	{
+		"id": "Model Size",
+		"defaultMessage": "Model Size",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/FileInfo/FileInfo.tsx#19#17#19#36"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Files.tsx#425#12#425#30"
+			}
+		]
+	},
+	{
+		"id": "Error uploading file",
+		"defaultMessage": "Error uploading file",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/FileInputUpload/FileInputUpload.tsx#182#40#184#12"
+			}
+		]
+	},
+	{
+		"id": "Could not report review, please try again",
+		"defaultMessage": "Could not report review, please try again",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Gallery/GalleryDetail.tsx#175#8#175#58"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Image/Detail/ImageDetailContextMenu.tsx#122#8#122#58"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/CommentDiscussionMenu.tsx#103#8#103#58"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionMenu.tsx#174#8#174#58"
+			}
+		]
+	},
+	{
+		"id": "Report ToS Violation",
+		"defaultMessage": "Report ToS Violation",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Gallery/GalleryDetail.tsx#182#6#182#35"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Image/Detail/ImageDetailContextMenu.tsx#129#6#129#35"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/CommentDiscussionMenu.tsx#110#6#110#35"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionMenu.tsx#181#6#181#35"
+			}
+		]
+	},
+	{
+		"id": "Delete",
+		"defaultMessage": "Delete",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Gallery/GalleryDetail.tsx#273#25#275#24"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Image/Detail/ImageDetailContextMenu.tsx#71#13#73#12"
+			}
+		]
+	},
+	{
+		"id": "Remove as TOS Violation",
+		"defaultMessage": "Remove as TOS Violation",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Gallery/GalleryDetail.tsx#281#29#283#28"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Image/Detail/ImageDetailContextMenu.tsx#84#15#86#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/CommentDiscussionMenu.tsx#160#96#162#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionMenu.tsx#246#98#248#16"
+			}
+		]
+	},
+	{
+		"id": "Flagged for review",
+		"defaultMessage": "Flagged for review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Gallery/GalleryDetail2.tsx#152#18#152#44"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Image/Detail/ImageDetail.tsx#125#20#125#46"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ImageGuard/ImageGuard.tsx#286#42#288#12"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ImageUpload/ImageUpload.tsx#343#41#345#12"
+			}
+		]
+	},
+	{
+		"id": "useGalleryDetailContext can only be used inside GalleryDetailProvider",
+		"defaultMessage": "useGalleryDetailContext can only be used inside GalleryDetailProvider",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Gallery/GalleryDetailProvider.tsx#42#10#42#92"
+			}
+		]
+	},
+	{
+		"id": "No tags found",
+		"defaultMessage": "No tags found",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Gallery/GalleryFilters.tsx#322#12#322#40"
+			}
+		]
+	},
+	{
+		"id": "Clear Filters",
+		"defaultMessage": "Clear Filters",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Gallery/GalleryFilters.tsx#350#98#352#12"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Image/Infinite/ImageFiltersDropdown.tsx#74#96#76#10"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/Infinite/ModelFiltersDropdown.tsx#156#100#158#14"
+			}
+		]
+	},
+	{
+		"id": "Post not Published",
+		"defaultMessage": "Post not Published",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Image/AsPosts/ImagesAsPostsCard.tsx#114#31#114#57"
+			}
+		]
+	},
+	{
+		"id": "ImagesInfiniteContext not in tree",
+		"defaultMessage": "ImagesInfiniteContext not in tree",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Image/AsPosts/ImagesAsPostsInfinite.tsx#47#22#47#68"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Image/Infinite/ImagesInfinite.tsx#28#22#28#68"
+			}
+		]
+	},
+	{
+		"id": "Add Post",
+		"defaultMessage": "Add Post",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Image/AsPosts/ImagesAsPostsInfinite.tsx#128#21#130#20"
+			}
+		]
+	},
+	{
+		"id": "Add Review",
+		"defaultMessage": "Add Review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Image/AsPosts/ImagesAsPostsInfinite.tsx#139#21#141#20"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelVersions/ModelVersionDetails.tsx#531#25#533#24"
+			}
+		]
+	},
+	{
+		"id": "No results found",
+		"defaultMessage": "No results found",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Image/AsPosts/ImagesAsPostsInfinite.tsx#207#47#209#16"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Image/Infinite/ImagesInfinite.tsx#93#41#95#10"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/Infinite/ModelsInfinite.tsx#75#41#77#10"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/NoContent/NoContent.tsx#13#37#15#6"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Infinite/PostsInfinite.tsx#82#41#84#10"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/Questions.Provider.tsx#251#37#253#6"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/ResourceReviewsGrid.tsx#54#41#56#10"
+			}
+		]
+	},
+	{
+		"id": "View more",
+		"defaultMessage": "View more",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Image/Categories/ImageCategoriesInfinite.tsx#37#10#37#28"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/Categories/ModelCategoriesInfinite.tsx#38#10#38#28"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Post/Categories/PostCategoriesInfinite.tsx#36#10#36#28"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/ResourceReviewCarousel.tsx#190#17#192#16"
+			}
+		]
+	},
+	{
+		"id": "Delete image",
+		"defaultMessage": "Delete image",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Image/DeleteImage/DeleteImage.tsx#33#6#33#27"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostImages.tsx#134#59#136#18"
+			}
+		]
+	},
+	{
+		"id": "Are you sure you want to delete this image?",
+		"defaultMessage": "Are you sure you want to delete this image?",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Image/DeleteImage/DeleteImage.tsx#34#6#34#61"
+			}
+		]
+	},
+	{
+		"id": "Edit Image Post",
+		"defaultMessage": "Edit Image Post",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Image/Detail/ImageDetailContextMenu.tsx#59#11#61#10"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ImageGuard/ImageGuard.tsx#312#7#314#6"
+			}
+		]
+	},
+	{
+		"id": "useImageDetailContext not found in tree",
+		"defaultMessage": "useImageDetailContext not found in tree",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Image/Detail/ImageDetailProvider.tsx#33#22#33#74"
+			}
+		]
+	},
+	{
+		"id": "Remove Resource",
+		"defaultMessage": "Remove Resource",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Image/Detail/ImageResources.tsx#77#6#77#30"
+			}
+		]
+	},
+	{
+		"id": "Are you sure you want to remove this resource from this image? This action is destructive and cannot be reverted.",
+		"defaultMessage": "Are you sure you want to remove this resource from this image? This action is destructive and cannot be reverted.",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Image/Detail/ImageResources.tsx#78#6#79#123"
+			}
+		]
+	},
+	{
+		"id": "Successfully removed resource",
+		"defaultMessage": "Successfully removed resource",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Image/Detail/ImageResources.tsx#88#16#88#54"
+			}
+		]
+	},
+	{
+		"id": "The resource was removed from the image",
+		"defaultMessage": "The resource was removed from the image",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Image/Detail/ImageResources.tsx#89#16#89#66"
+			}
+		]
+	},
+	{
+		"id": "Unable to remove resource",
+		"defaultMessage": "Unable to remove resource",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Image/Detail/ImageResources.tsx#95#16#95#50"
+			}
+		]
+	},
+	{
+		"id": "Unavailable",
+		"defaultMessage": "Unavailable",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Image/Detail/ImageResources.tsx#134#66#136#22"
+			}
+		]
+	},
+	{
+		"id": "There are no resources associated with this image",
+		"defaultMessage": "There are no resources associated with this image",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Image/Detail/ImageResources.tsx#231#15#231#64"
+			}
+		]
+	},
+	{
+		"id": "Age",
+		"defaultMessage": "Age",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Image/ImageAnalysis/ImageAnalysis.tsx#29#53#31#16"
+			}
+		]
+	},
+	{
+		"id": "Gender",
+		"defaultMessage": "Gender",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Image/ImageAnalysis/ImageAnalysis.tsx#40#53#42#16"
+			}
+		]
+	},
+	{
+		"id": "NSFW",
+		"defaultMessage": "NSFW",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Image/ImageAnalysis/ImageAnalysis.tsx#57#47#59#10"
+			}
+		]
+	},
+	{
+		"id": "Drag images here or click to select files",
+		"defaultMessage": "Drag images here or click to select files",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Image/ImageDropzone/ImageDropzone.tsx#53#33#55#10"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ImageUpload/ImageUpload.tsx#184#37#186#14"
+			}
+		]
+	},
+	{
+		"id": "useImageGuardContext can only be used inside ImageGuardCtx",
+		"defaultMessage": "useImageGuardContext can only be used inside ImageGuardCtx",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/ImageGuard/ImageGuard.tsx#91#22#91#93"
+			}
+		]
+	},
+	{
+		"id": "useImageGuardContentContext can only be used inside ImageGuardContentCtx",
+		"defaultMessage": "useImageGuardContentContext can only be used inside ImageGuardContentCtx",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/ImageGuard/ImageGuard.tsx#156#10#156#95"
+			}
+		]
+	},
+	{
+		"id": "Approve",
+		"defaultMessage": "Approve",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ImageGuard/ImageGuard.tsx#271#11#273#10"
+			}
+		]
+	},
+	{
+		"id": "Reject",
+		"defaultMessage": "Reject",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ImageGuard/ImageGuard.tsx#274#99#276#10"
+			}
+		]
+	},
+	{
+		"id": "Report image",
+		"defaultMessage": "Report image",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ImageGuard/ImageGuard.tsx#301#95#303#6"
+			}
+		]
+	},
+	{
+		"id": "You must be logged in to view adult content",
+		"defaultMessage": "You must be logged in to view adult content",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ImageGuard/ImageGuard.tsx#518#60#520#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Media/SfwToggle.tsx#50#58#52#12"
+			}
+		]
+	},
+	{
+		"id": "Login",
+		"defaultMessage": "Login",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ImageGuard/ImageGuard.tsx#523#94#525#12"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/LoginPopover/LoginPopover.tsx#75#94#77#12"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Media/SfwToggle.tsx#55#92#57#10"
+			}
+		]
+	},
+	{
+		"id": "CFG scale",
+		"defaultMessage": "CFG scale",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/ImageMeta/ImageMeta.tsx#31#2#31#23"
+			}
+		]
+	},
+	{
+		"id": "Clip skip",
+		"defaultMessage": "Clip skip",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/ImageMeta/ImageMeta.tsx#36#2#36#26"
+			}
+		]
+	},
+	{
+		"id": "Will be reviewed",
+		"defaultMessage": "Will be reviewed",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ImageUpload/ImageUpload.tsx#336#60#338#16"
+			}
+		]
+	},
+	{
+		"id": "After submission this image will be reviewed by a moderator.",
+		"defaultMessage": "After submission this image will be reviewed by a moderator.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ImageUpload/ImageUpload.tsx#346#53#348#12"
+			}
+		]
+	},
+	{
+		"id": "Blocked for",
+		"defaultMessage": "Blocked for",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ImageUpload/ImageUploadPreview.tsx#99#53#101#24"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostImages.tsx#216#53#218#24"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostImages.tsx#253#49#255#20"
+			}
+		]
+	},
+	{
+		"id": "TOS Violation",
+		"defaultMessage": "TOS Violation",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ImageUpload/ImageUploadPreview.tsx#106#24#106#37"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Modals/ReportModal.tsx#47#4#47#26"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostImages.tsx#223#24#223#37"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostImages.tsx#269#20#269#33"
+			}
+		]
+	},
+	{
+		"id": "Join Now",
+		"defaultMessage": "Join Now",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/JoinPopover/JoinPopover.tsx#71#69#73#12"
+			}
+		]
+	},
+	{
+		"id": "User Rank",
+		"defaultMessage": "User Rank",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Leaderboard/RankBadge.tsx#11#6#11#25"
+			}
+		]
+	},
+	{
+		"id": "mod+K",
+		"defaultMessage": "mod+K",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/ListSearch/ListSearch.tsx#44#15#44#22"
+			}
+		]
+	},
+	{
+		"id": "You must be logged in to perform this action",
+		"defaultMessage": "You must be logged in to perform this action",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/LoginPopover/LoginPopover.tsx#69#62#71#16"
+			}
+		]
+	},
+	{
+		"id": "We'll be right back | Civitai",
+		"defaultMessage": "We'll be right back | Civitai",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/MaintenanceMode/MaintenanceMode.tsx#9#8#9#45"
+			}
+		]
+	},
+	{
+		"id": "We're adjusting a few things, be back in a few minutes...",
+		"defaultMessage": "We're adjusting a few things, be back in a few minutes...",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/MaintenanceMode/MaintenanceMode.tsx#10#8#10#79"
+			}
+		]
+	},
+	{
+		"id": "This is fine",
+		"defaultMessage": "This is fine",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/MaintenanceMode/MaintenanceMode.tsx#20#41#20#59"
+			}
+		]
+	},
+	{
+		"id": "MasonryContainerProvider not in tree",
+		"defaultMessage": "MasonryContainerProvider not in tree",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/MasonryColumns/MasonryContainer.tsx#16#22#16#71"
+			}
+		]
+	},
+	{
+		"id": "MasonryContext not in tree",
+		"defaultMessage": "MasonryContext not in tree",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/MasonryColumns/MasonryProvider.tsx#14#22#14#61"
+			}
+		]
+	},
+	{
+		"id": "This is marked as NSFW",
+		"defaultMessage": "This is marked as NSFW",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Media/MediaNsfwToggle.tsx#51#55#53#10"
+			}
+		]
+	},
+	{
+		"id": "useSfwContext can only be used inside SfwCtx",
+		"defaultMessage": "useSfwContext can only be used inside SfwCtx",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Media/sfwContext.ts#14#22#14#79"
+			}
+		]
+	},
+	{
+		"id": "Select the tags you want to add to your blocking list",
+		"defaultMessage": "Select the tags you want to add to your blocking list",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/BlockModelTagsModal.tsx#49#43#51#12"
+			}
+		]
+	},
+	{
+		"id": "Close",
+		"defaultMessage": "Close",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/BlockModelTagsModal.tsx#87#64#89#14"
+			}
+		]
+	},
+	{
+		"id": "Failed to save",
+		"defaultMessage": "Failed to save",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Modals/ReorderVersionsModal.tsx#62#63#62#86"
+			}
+		]
+	},
+	{
+		"id": "Drag and drop the versions to set their order",
+		"defaultMessage": "Drag and drop the versions to set their order",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/ReorderVersionsModal.tsx#94#41#96#10"
+			}
+		]
+	},
+	{
+		"id": "Needs Moderator Review",
+		"defaultMessage": "Needs Moderator Review",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Modals/ReportModal.tsx#59#4#59#35"
+			}
+		]
+	},
+	{
+		"id": "Model reported",
+		"defaultMessage": "Model reported",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Modals/ReportModal.tsx#129#10#129#33"
+			}
+		]
+	},
+	{
+		"id": "Your request has been received",
+		"defaultMessage": "Your request has been received",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Modals/ReportModal.tsx#130#10#130#51"
+			}
+		]
+	},
+	{
+		"id": "Generate images using this model now",
+		"defaultMessage": "Generate images using this model now",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/RunStrategyModal.tsx#27#28#27#64"
+			}
+		]
+	},
+	{
+		"id": "Website",
+		"defaultMessage": "Website",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/RunStrategyModal.tsx#111#35#113#34"
+			}
+		]
+	},
+	{
+		"id": "Startup time",
+		"defaultMessage": "Startup time",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/RunStrategyModal.tsx#145#62#145#82"
+			}
+		]
+	},
+	{
+		"id": "Image generation time",
+		"defaultMessage": "Image generation time",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/RunStrategyModal.tsx#152#62#152#91"
+			}
+		]
+	},
+	{
+		"id": "Want to try out this model right away? Use one of these services to start generating right away.",
+		"defaultMessage": "Want to try out this model right away? Use one of these services to start generating right away.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/RunStrategyModal.tsx#195#14#198#8"
+			}
+		]
+	},
+	{
+		"id": "Automatic 1111 Web UI (Local)",
+		"defaultMessage": "Automatic 1111 Web UI (Local)",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/RunStrategyModal.tsx#212#30#212#59"
+			}
+		]
+	},
+	{
+		"id": "Coming Soon",
+		"defaultMessage": "Coming Soon",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/RunStrategyModal.tsx#216#56#216#67"
+			}
+		]
+	},
+	{
+		"id": "Help Wanted",
+		"defaultMessage": "Help Wanted",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/RunStrategyModal.tsx#217#71#219#26"
+			}
+		]
+	},
+	{
+		"id": "Not available",
+		"defaultMessage": "Not available",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/RunStrategyModal.tsx#246#30#246#43"
+			}
+		]
+	},
+	{
+		"id": "Currently, there are no model generating services for this model",
+		"defaultMessage": "Currently, there are no model generating services for this model",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/RunStrategyModal.tsx#256#32#258#10"
+			}
+		]
+	},
+	{
+		"id": "Request that they be added",
+		"defaultMessage": "Request that they be added",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/RunStrategyModal.tsx#267#11#269#10"
+			}
+		]
+	},
+	{
+		"id": "Unpublish as Violation",
+		"defaultMessage": "Unpublish as Violation",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Modals/UnpublishModal.tsx#16#2#16#33"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#538#27#540#26"
+			}
+		]
+	},
+	{
+		"id": "Unpublish",
+		"defaultMessage": "Unpublish",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Modals/UnpublishModal.tsx#56#84#58#12"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#517#23#519#22"
+			}
+		]
+	},
+	{
+		"id": "Early Access",
+		"defaultMessage": "Early Access",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/Categories/ModelCategoryCard.tsx#106#9#108#8"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/Infinite/ModelCard.tsx#216#9#218#8"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/Infinite/ModelFiltersDropdown.tsx#96#13#98#12"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#499#98#501#20"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#827#29#829#28"
+			}
+		]
+	},
+	{
+		"id": "Report Resource",
+		"defaultMessage": "Report Resource",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/Categories/ModelCategoryCard.tsx#174#7#176#6"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/Infinite/ModelCard.tsx#284#7#286#6"
+			}
+		]
+	},
+	{
+		"id": "Report Image",
+		"defaultMessage": "Report Image",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/Categories/ModelCategoryCard.tsx#189#7#191#6"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/Infinite/ModelCard.tsx#299#7#301#6"
+			}
+		]
+	},
+	{
+		"id": "Delete Comment",
+		"defaultMessage": "Delete Comment",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/Discussion/ModelDiscussionContextMenu.tsx#35#99#37#14"
+			}
+		]
+	},
+	{
+		"id": "Edit Comment",
+		"defaultMessage": "Edit Comment",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/Discussion/ModelDiscussionContextMenu.tsx#42#90#44#10"
+			}
+		]
+	},
+	{
+		"id": "ModelDiscussionInfiniteContext not in tree",
+		"defaultMessage": "ModelDiscussionInfiniteContext not in tree",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/Discussion/ModelDiscussionsInfinite.tsx#17#22#17#77"
+			}
+		]
+	},
+	{
+		"id": "Start the discussion",
+		"defaultMessage": "Start the discussion",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/Discussion/ModelDiscussionsInfinite.tsx#58#35#58#55"
+			}
+		]
+	},
+	{
+		"id": "Supporter Tier members",
+		"defaultMessage": "Supporter Tier members",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/EarlyAccessAlert/EarlyAccessAlert.tsx#72#64#74#6"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Forms/ModelVersionUpsertForm.tsx#148#94#150#20"
+			}
+		]
+	},
+	{
+		"id": "Checkpoint type",
+		"defaultMessage": "Checkpoint type",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/Infinite/ModelFiltersDropdown.tsx#115#25#115#48"
+			}
+		]
+	},
+	{
+		"id": "No showcase images available",
+		"defaultMessage": "No showcase images available",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelCarousel/ModelCarousel.tsx#159#28#159#56"
+			}
+		]
+	},
+	{
+		"id": "Adjust Settings",
+		"defaultMessage": "Adjust Settings",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelCarousel/ModelCarousel.tsx#172#15#174#14"
+			}
+		]
+	},
+	{
+		"id": "Browse Gallery",
+		"defaultMessage": "Browse Gallery",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelCarousel/ModelCarousel.tsx#184#62#186#12"
+			}
+		]
+	},
+	{
+		"id": "From Community",
+		"defaultMessage": "From Community",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelCarousel/ModelCarousel.tsx#245#28#245#50"
+			}
+		]
+	},
+	{
+		"id": "Has TOS Violation",
+		"defaultMessage": "Has TOS Violation",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/CommentDiscussionItem.tsx#111#21#111#46"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionItem.tsx#168#21#168#46"
+			}
+		]
+	},
+	{
+		"id": "Could not lock the thread, please try again",
+		"defaultMessage": "Could not lock the thread, please try again",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/CommentDiscussionMenu.tsx#85#15#85#71"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionMenu.tsx#156#15#156#71"
+			}
+		]
+	},
+	{
+		"id": "Be the first to let the people know about this model by leaving your review.",
+		"defaultMessage": "Be the first to let the people know about this model by leaving your review.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ModelDiscussion.tsx#74#35#76#14"
+			}
+		]
+	},
+	{
+		"id": "Be the first to let the people know about this model by leaving your comment.",
+		"defaultMessage": "Be the first to let the people know about this model by leaving your comment.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ModelDiscussionV2.tsx#46#35#48#14"
+			}
+		]
+	},
+	{
+		"id": "Excluded from average",
+		"defaultMessage": "Excluded from average",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionItem.tsx#136#41#138#12"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/reviews.tsx#297#63#297#84"
+			}
+		]
+	},
+	{
+		"id": "Could not delete review",
+		"defaultMessage": "Could not delete review",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionMenu.tsx#47#8#47#40"
+			}
+		]
+	},
+	{
+		"id": "Delete Review",
+		"defaultMessage": "Delete Review",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionMenu.tsx#53#6#53#28"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionMenu.tsx#61#16#61#40"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/ResourceReview/ResourceReviewMenu.tsx#57#6#57#28"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/ResourceReview/ResourceReviewMenu.tsx#65#16#65#40"
+			}
+		]
+	},
+	{
+		"id": "Are you sure you want to delete this review? This action is destructive and cannot be reverted.",
+		"defaultMessage": "Are you sure you want to delete this review? This action is destructive and cannot be reverted.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionMenu.tsx#55#24#58#8"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/ResourceReviewMenu.tsx#59#24#62#8"
+			}
+		]
+	},
+	{
+		"id": "Could not exclude review",
+		"defaultMessage": "Could not exclude review",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionMenu.tsx#78#8#78#41"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/ResourceReview/ResourceReviewMenu.tsx#82#8#82#41"
+			}
+		]
+	},
+	{
+		"id": "Exclude Review",
+		"defaultMessage": "Exclude Review",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionMenu.tsx#84#6#84#29"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionMenu.tsx#92#16#92#41"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/ResourceReview/ResourceReviewMenu.tsx#88#6#88#29"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/ResourceReview/ResourceReviewMenu.tsx#96#16#96#41"
+			}
+		]
+	},
+	{
+		"id": "Are you sure you want to exclude this review from the average score of this model? You will not be able to revert this.",
+		"defaultMessage": "Are you sure you want to exclude this review from the average score of this model? You will not be able to revert this.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionMenu.tsx#86#24#89#8"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/ResourceReviewMenu.tsx#90#24#93#8"
+			}
+		]
+	},
+	{
+		"id": "Convert to Review",
+		"defaultMessage": "Convert to Review",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionMenu.tsx#121#6#121#32"
+			}
+		]
+	},
+	{
+		"id": "Are you sure you want to convert this review to a comment? You will not be able to revert this.",
+		"defaultMessage": "Are you sure you want to convert this review to a comment? You will not be able to revert this.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionMenu.tsx#123#24#126#8"
+			}
+		]
+	},
+	{
+		"id": "Delete review",
+		"defaultMessage": "Delete review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionMenu.tsx#205#13#207#12"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/ResourceReviewMenu.tsx#120#13#122#12"
+			}
+		]
+	},
+	{
+		"id": "Edit review",
+		"defaultMessage": "Edit review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionMenu.tsx#212#15#214#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/ResourceReviewMenu.tsx#127#15#129#14"
+			}
+		]
+	},
+	{
+		"id": "Exclude from average",
+		"defaultMessage": "Exclude from average",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionMenu.tsx#234#15#236#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/ResourceReviewMenu.tsx#139#15#141#14"
+			}
+		]
+	},
+	{
+		"id": "Convert to comment",
+		"defaultMessage": "Convert to comment",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionMenu.tsx#243#17#245#16"
+			}
+		]
+	},
+	{
+		"id": "Unexclude from average",
+		"defaultMessage": "Unexclude from average",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelDiscussion/ReviewDiscussionMenu.tsx#255#15#257#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/ResourceReviewMenu.tsx#146#15#148#14"
+			}
+		]
+	},
+	{
+		"id": "This is a Wildcard collection, it requires an",
+		"defaultMessage": "This is a Wildcard collection, it requires an",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelFileAlert/ModelFileAlert.tsx#26#50#27#55"
+			}
+		]
+	},
+	{
+		"id": "additional extension in Automatic 1111",
+		"defaultMessage": "additional extension in Automatic 1111",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelFileAlert/ModelFileAlert.tsx#32#11#34#10"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelFileAlert/ModelFileAlert.tsx#45#11#47#10"
+			}
+		]
+	},
+	{
+		"id": "This is a LyCORIS (LoCon/LoHA) model, and requires an",
+		"defaultMessage": "This is a LyCORIS (LoCon/LoHA) model, and requires an",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelFileAlert/ModelFileAlert.tsx#39#50#40#63"
+			}
+		]
+	},
+	{
+		"id": "This Textual Inversion includes a",
+		"defaultMessage": "This Textual Inversion includes a",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelFileAlert/ModelFileAlert.tsx#52#50#53#43"
+			}
+		]
+	},
+	{
+		"id": "Negative embed",
+		"defaultMessage": "Negative embed",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelFileAlert/ModelFileAlert.tsx#59#11#61#10"
+			}
+		]
+	},
+	{
+		"id": "This checkpoint includes a",
+		"defaultMessage": "This checkpoint includes a",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelFileAlert/ModelFileAlert.tsx#66#50#67#36"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelFileAlert/ModelFileAlert.tsx#80#50#81#36"
+			}
+		]
+	},
+	{
+		"id": "VAE",
+		"defaultMessage": "VAE",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelFileAlert/ModelFileAlert.tsx#87#11#89#10"
+			}
+		]
+	},
+	{
+		"id": "Text Encoder",
+		"defaultMessage": "Text Encoder",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#29#18#29#32"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/Files.tsx#387#26#387#40"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#441#34#441#48"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#446#34#446#48"
+			}
+		]
+	},
+	{
+		"id": "Pick a file",
+		"defaultMessage": "Pick a file",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#156#6#156#31"
+			}
+		]
+	},
+	{
+		"id": "Are you sure you want to remove this file?",
+		"defaultMessage": "Are you sure you want to remove this file?",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#164#14#164#66"
+			}
+		]
+	},
+	{
+		"id": "Be the first to share your creation with this model by adding a post.",
+		"defaultMessage": "Be the first to share your creation with this model by adding a post.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelGallery/ModelGallery.tsx#64#33#66#12"
+			}
+		]
+	},
+	{
+		"id": "Delete version",
+		"defaultMessage": "Delete version",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelVersionList/ModelVersionList.tsx#227#21#229#20"
+			}
+		]
+	},
+	{
+		"id": "Edit details",
+		"defaultMessage": "Edit details",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelVersionList/ModelVersionList.tsx#241#19#243#18"
+			}
+		]
+	},
+	{
+		"id": "Manage files",
+		"defaultMessage": "Manage files",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelVersionList/ModelVersionList.tsx#252#19#254#18"
+			}
+		]
+	},
+	{
+		"id": "Manage images",
+		"defaultMessage": "Manage images",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelVersionList/ModelVersionList.tsx#261#21#263#20"
+			}
+		]
+	},
+	{
+		"id": "Download",
+		"defaultMessage": "Download",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelVersions/ModelVersionDetails.tsx#169#9#171#8"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelVersions/ModelVersionDetails.tsx#250#11#252#10"
+			}
+		]
+	},
+	{
+		"id": "Request a Review",
+		"defaultMessage": "Request a Review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelVersions/ModelVersionDetails.tsx#298#13#300#12"
+			}
+		]
+	},
+	{
+		"id": "Publish this version",
+		"defaultMessage": "Publish this version",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelVersions/ModelVersionDetails.tsx#302#94#304#12"
+			}
+		]
+	},
+	{
+		"id": "Details",
+		"defaultMessage": "Details",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelVersions/ModelVersionDetails.tsx#427#40#429#18"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/reports.tsx#135#77#137#12"
+			}
+		]
+	},
+	{
+		"id": "Edit",
+		"defaultMessage": "Edit",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelVersions/ModelVersionDetails.tsx#432#79#434#24"
+			}
+		]
+	},
+	{
+		"id": "Edit Model Details",
+		"defaultMessage": "Edit Model Details",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelVersions/ModelVersionDetails.tsx#442#25#444#24"
+			}
+		]
+	},
+	{
+		"id": "Edit Version Details",
+		"defaultMessage": "Edit Version Details",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelVersions/ModelVersionDetails.tsx#452#25#454#24"
+			}
+		]
+	},
+	{
+		"id": "Manage Files",
+		"defaultMessage": "Manage Files",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelVersions/ModelVersionDetails.tsx#493#53#495#22"
+			}
+		]
+	},
+	{
+		"id": "This version is missing files",
+		"defaultMessage": "This version is missing files",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelVersions/ModelVersionDetails.tsx#506#53#508#22"
+			}
+		]
+	},
+	{
+		"id": "See Reviews",
+		"defaultMessage": "See Reviews",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelVersions/ModelVersionDetails.tsx#542#25#544#24"
+			}
+		]
+	},
+	{
+		"id": "Show more",
+		"defaultMessage": "Show more",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelVersions/ModelVersionDetails.tsx#577#23#579#22"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/ResourceReviewComments.tsx#29#88#31#22"
+			}
+		]
+	},
+	{
+		"id": "License",
+		"defaultMessage": "License",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelVersions/ModelVersionDetails.tsx#601#17#602#25"
+			}
+		]
+	},
+	{
+		"id": "About this version",
+		"defaultMessage": "About this version",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Model/ModelVersions/ModelVersionDetails.tsx#677#10#677#36"
+			}
+		]
+	},
+	{
+		"id": "Notifications",
+		"defaultMessage": "Notifications",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Notifications/NotificationBell.tsx#59#42#61#12"
+			}
+		]
+	},
+	{
+		"id": "Mark all as read",
+		"defaultMessage": "Mark all as read",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Notifications/NotificationBell.tsx#63#23#63#47"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/notifications.tsx#66#25#66#49"
+			}
+		]
+	},
+	{
+		"id": "All caught up! Nothing to see here",
+		"defaultMessage": "All caught up! Nothing to see here",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Notifications/NotificationBell.tsx#110#20#110#54"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/notifications.tsx#104#22#104#56"
+			}
+		]
+	},
+	{
+		"id": "Welcome!",
+		"defaultMessage": "Welcome!",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/OnboardingModal/OnboardingModal.tsx#125#42#125#50"
+			}
+		]
+	},
+	{
+		"id": "Please take a moment to review and accept our terms of service.",
+		"defaultMessage": "Please take a moment to review and accept our terms of service.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/OnboardingModal/OnboardingModal.tsx#135#14#135#91"
+			}
+		]
+	},
+	{
+		"id": "Decline",
+		"defaultMessage": "Decline",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/OnboardingModal/OnboardingModal.tsx#162#69#164#16"
+			}
+		]
+	},
+	{
+		"id": "You will be logged out.",
+		"defaultMessage": "You will be logged out.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/OnboardingModal/OnboardingModal.tsx#165#47#167#16"
+			}
+		]
+	},
+	{
+		"id": "Accept",
+		"defaultMessage": "Accept",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/OnboardingModal/OnboardingModal.tsx#174#15#176#14"
+			}
+		]
+	},
+	{
+		"id": "Personalize your experience",
+		"defaultMessage": "Personalize your experience",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/OnboardingModal/OnboardingModal.tsx#244#41#244#82"
+			}
+		]
+	},
+	{
+		"id": "Content Experience",
+		"defaultMessage": "Content Experience",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/OnboardingModal/OnboardingModal.tsx#250#37#250#55"
+			}
+		]
+	},
+	{
+		"id": "Personalize your AI content exploration! Fine-tune preferences for a delightful and safe browsing experience.",
+		"defaultMessage": "Personalize your AI content exploration! Fine-tune preferences for a delightful and safe browsing experience.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/OnboardingModal/OnboardingModal.tsx#256#16#256#139"
+			}
+		]
+	},
+	{
+		"id": "You can adjust these preferences at any time from your account page.",
+		"defaultMessage": "You can adjust these preferences at any time from your account page.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/OnboardingModal/OnboardingModal.tsx#258#45#260#14"
+			}
+		]
+	},
+	{
+		"id": "Done",
+		"defaultMessage": "Done",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/OnboardingModal/OnboardingModal.tsx#272#15#274#14"
+			}
+		]
+	},
+	{
+		"id": "Creator credit required",
+		"defaultMessage": "Creator credit required",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/PermissionIndicator/PermissionIndicator.tsx#35#24#35#56"
+			}
+		]
+	},
+	{
+		"id": "Same permissions required",
+		"defaultMessage": "Same permissions required",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/PermissionIndicator/PermissionIndicator.tsx#41#6#41#40"
+			}
+		]
+	},
+	{
+		"id": "This model permits users to:",
+		"defaultMessage": "This model permits users to:",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/PermissionIndicator/PermissionIndicator.tsx#57#27#57#55"
+			}
+		]
+	},
+	{
+		"id": "No",
+		"defaultMessage": "No",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/PopConfirm/PopConfirm.tsx#41#69#43#12"
+			}
+		]
+	},
+	{
+		"id": "Yes",
+		"defaultMessage": "Yes",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/PopConfirm/PopConfirm.tsx#44#52#46#12"
+			}
+		]
+	},
+	{
+		"id": "Post deleted",
+		"defaultMessage": "Post deleted",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Post/DeletePostButton.tsx#26#8#26#29"
+			}
+		]
+	},
+	{
+		"id": "Post delete failed",
+		"defaultMessage": "Post delete failed",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Post/DeletePostButton.tsx#34#30#34#57"
+			}
+		]
+	},
+	{
+		"id": "Are you sure you want to delete this post? The images in this post",
+		"defaultMessage": "Are you sure you want to delete this post? The images in this post",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/DeletePostButton.tsx#43#14#44#76"
+			}
+		]
+	},
+	{
+		"id": "Load more comments",
+		"defaultMessage": "Load more comments",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Detail/PostComments.tsx#34#88#36#22"
+			}
+		]
+	},
+	{
+		"id": "Edit Post",
+		"defaultMessage": "Edit Post",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Detail/PostControls.tsx#36#13#38#12"
+			}
+		]
+	},
+	{
+		"id": "Delete Post",
+		"defaultMessage": "Delete Post",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Detail/PostControls.tsx#45#17#47#16"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/PostEditActions.tsx#33#11#35#10"
+			}
+		]
+	},
+	{
+		"id": "Posted to",
+		"defaultMessage": "Posted to",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Detail/PostDetail.tsx#80#24#81#33"
+			}
+		]
+	},
+	{
+		"id": "Loading Images",
+		"defaultMessage": "Loading Images",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Detail/PostImages.tsx#41#20#43#8"
+			}
+		]
+	},
+	{
+		"id": "Image details saved successfully",
+		"defaultMessage": "Image details saved successfully",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Post/Edit/EditImageDrawer.tsx#107#34#107#77"
+			}
+		]
+	},
+	{
+		"id": "There are no tags associated with this image yet. Tags will be assigned to this image soon.",
+		"defaultMessage": "There are no tags associated with this image yet. Tags will be assigned to this image soon.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditImageDrawer.tsx#161#40#164#18"
+			}
+		]
+	},
+	{
+		"id": "Missing resources?",
+		"defaultMessage": "Missing resources?",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditImageDrawer.tsx#174#20#174#46"
+			}
+		]
+	},
+	{
+		"id": "Install the",
+		"defaultMessage": "Install the",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditImageDrawer.tsx#176#24#177#35"
+			}
+		]
+	},
+	{
+		"id": "Civitai Extension for Automatic 1111 Stable Diffusion Web UI",
+		"defaultMessage": "Civitai Extension for Automatic 1111 Stable Diffusion Web UI",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditImageDrawer.tsx#183#25#185#24"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditImageDrawer.tsx#251#19#253#18"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostReviews.tsx#88#17#90#16"
+			}
+		]
+	},
+	{
+		"id": "The detected image resource was not found in our system",
+		"defaultMessage": "The detected image resource was not found in our system",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditImageDrawer.tsx#219#44#221#38"
+			}
+		]
+	},
+	{
+		"id": "We could not detect any resources associated with this image. If this image is based on a model hosted on Civitai, try creating this post from the model detail page. For automatic image resource detection, try installing",
+		"defaultMessage": "We could not detect any resources associated with this image. If this image is based on a model hosted on Civitai, try creating this post from the model detail page. For automatic image resource detection, try installing",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditImageDrawer.tsx#242#38#245#78"
+			}
+		]
+	},
+	{
+		"id": "Guidance scale",
+		"defaultMessage": "Guidance scale",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditImageDrawer.tsx#270#50#270#72"
+			}
+		]
+	},
+	{
+		"id": "DPM++ SDE",
+		"defaultMessage": "DPM++ SDE",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Post/Edit/EditImageDrawer.tsx#289#20#289#31"
+			}
+		]
+	},
+	{
+		"id": "DPM adaptive",
+		"defaultMessage": "DPM adaptive",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Post/Edit/EditImageDrawer.tsx#291#20#291#34"
+			}
+		]
+	},
+	{
+		"id": "At least one tag is required in order to publish this post to the community",
+		"defaultMessage": "At least one tag is required in order to publish this post to the community",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostControls.tsx#76#12#76#95"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Forms/PostUpsertForm.tsx#197#10#197#93"
+			}
+		]
+	},
+	{
+		"id": "Share",
+		"defaultMessage": "Share",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostControls.tsx#95#58#97#12"
+			}
+		]
+	},
+	{
+		"id": "Your post is currently",
+		"defaultMessage": "Your post is currently",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostControls.tsx#103#12#104#34"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Forms/PostUpsertForm.tsx#216#12#217#34"
+			}
+		]
+	},
+	{
+		"id": "Published",
+		"defaultMessage": "Published",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostControls.tsx#112#12#113#22"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Forms/PostUpsertForm.tsx#225#12#226#22"
+			}
+		]
+	},
+	{
+		"id": "Mature",
+		"defaultMessage": "Mature",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostControls.tsx#139#14#140#16"
+			}
+		]
+	},
+	{
+		"id": "Generation Data",
+		"defaultMessage": "Generation Data",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostImages.tsx#103#73#105#12"
+			}
+		]
+	},
+	{
+		"id": "Missing Generation Data",
+		"defaultMessage": "Missing Generation Data",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostImages.tsx#107#75#109#12"
+			}
+		]
+	},
+	{
+		"id": "Resources:",
+		"defaultMessage": "Resources:",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostImages.tsx#112#73#113#25"
+			}
+		]
+	},
+	{
+		"id": "Missing Resources",
+		"defaultMessage": "Missing Resources",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostImages.tsx#116#76#118#12"
+			}
+		]
+	},
+	{
+		"id": "Edit image",
+		"defaultMessage": "Edit image",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostImages.tsx#131#58#131#68"
+			}
+		]
+	},
+	{
+		"id": "The image you uploaded was determined to violate our TOS and has been completely removed from our service",
+		"defaultMessage": "The image you uploaded was determined to violate our TOS and has been completely removed from our service",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostImages.tsx#277#14#280#8"
+			}
+		]
+	},
+	{
+		"id": "Missing EditPostContext.Provider in the tree",
+		"defaultMessage": "Missing EditPostContext.Provider in the tree",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostProvider.tsx#313#20#313#77"
+			}
+		]
+	},
+	{
+		"id": "Resource Reviews",
+		"defaultMessage": "Resource Reviews",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostReviews.tsx#44#51#46#6"
+			}
+		]
+	},
+	{
+		"id": "You cannot add reviews because you have been muted",
+		"defaultMessage": "You cannot add reviews because you have been muted",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostReviews.tsx#48#50#50#8"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/reviews.tsx#197#60#199#18"
+			}
+		]
+	},
+	{
+		"id": "What did you think of the resources you used?",
+		"defaultMessage": "What did you think of the resources you used?",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostReviews.tsx#57#14#57#67"
+			}
+		]
+	},
+	{
+		"id": "Take a moment to rate the resources you used in this post by clicking the stars below and optionally leaving a comment about the resource.",
+		"defaultMessage": "Take a moment to rate the resources you used in this post by clicking the stars below and optionally leaving a comment about the resource.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostReviews.tsx#58#14#58#162"
+			}
+		]
+	},
+	{
+		"id": "Some of your images are missing resources. For automatic image resource detection, try installing",
+		"defaultMessage": "Some of your images are missing resources. For automatic image resource detection, try installing",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostReviews.tsx#80#30#82#30"
+			}
+		]
+	},
+	{
+		"id": "Failed to add tag",
+		"defaultMessage": "Failed to add tag",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostTags.tsx#128#12#128#38"
+			}
+		]
+	},
+	{
+		"id": "Done Rearranging",
+		"defaultMessage": "Done Rearranging",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Edit/ReorderImages.tsx#66#81#68#10"
+			}
+		]
+	},
+	{
+		"id": "Drop image here",
+		"defaultMessage": "Drop image here",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ProfileImageUpload/ProfileImageUpload.tsx#83#31#83#46"
+			}
+		]
+	},
+	{
+		"id": "Delete answer",
+		"defaultMessage": "Delete answer",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/AnswerDetail.tsx#71#23#73#22"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Questions/DeleteAnswer.tsx#27#6#27#28"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Questions/DeleteAnswer.tsx#35#16#35#40"
+			}
+		]
+	},
+	{
+		"id": "Edit answer",
+		"defaultMessage": "Edit answer",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/AnswerDetail.tsx#79#23#81#22"
+			}
+		]
+	},
+	{
+		"id": "Your answer was saved",
+		"defaultMessage": "Your answer was saved",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Questions/AnswerForm.tsx#31#8#31#38"
+			}
+		]
+	},
+	{
+		"id": "Could not save answer",
+		"defaultMessage": "Could not save answer",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Questions/AnswerForm.tsx#45#8#45#38"
+			}
+		]
+	},
+	{
+		"id": "Thanks for contributing!",
+		"defaultMessage": "Thanks for contributing!",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/AnswerForm.tsx#67#26#67#50"
+			}
+		]
+	},
+	{
+		"id": "Please be sure to answer the question. Provide details and share your research!",
+		"defaultMessage": "Please be sure to answer the question. Provide details and share your research!",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/AnswerForm.tsx#69#23#71#12"
+			}
+		]
+	},
+	{
+		"id": "But avoid …",
+		"defaultMessage": "But avoid …",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/AnswerForm.tsx#73#26#73#37"
+			}
+		]
+	},
+	{
+		"id": "Making statements based on opinion; back them up with references or personal experience.",
+		"defaultMessage": "Making statements based on opinion; back them up with references or personal experience.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/AnswerForm.tsx#76#23#79#12"
+			}
+		]
+	},
+	{
+		"id": "Your answer has been deleted",
+		"defaultMessage": "Your answer has been deleted",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Questions/DeleteAnswer.tsx#11#8#11#45"
+			}
+		]
+	},
+	{
+		"id": "Successfully deleted the answer",
+		"defaultMessage": "Successfully deleted the answer",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Questions/DeleteAnswer.tsx#12#8#12#50"
+			}
+		]
+	},
+	{
+		"id": "Could not delete answer",
+		"defaultMessage": "Could not delete answer",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Questions/DeleteAnswer.tsx#19#8#19#40"
+			}
+		]
+	},
+	{
+		"id": "Are you sure you want to delete this answer? This action is destructive and you will have to contact support to restore your data.",
+		"defaultMessage": "Are you sure you want to delete this answer? This action is destructive and you will have to contact support to restore your data.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/DeleteAnswer.tsx#29#24#32#8"
+			}
+		]
+	},
+	{
+		"id": "Your question has been deleted",
+		"defaultMessage": "Your question has been deleted",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Questions/DeleteQuestion.tsx#14#8#14#47"
+			}
+		]
+	},
+	{
+		"id": "Successfully deleted the question",
+		"defaultMessage": "Successfully deleted the question",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Questions/DeleteQuestion.tsx#15#8#15#52"
+			}
+		]
+	},
+	{
+		"id": "Could not delete question",
+		"defaultMessage": "Could not delete question",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Questions/DeleteQuestion.tsx#23#8#23#42"
+			}
+		]
+	},
+	{
+		"id": "Delete question",
+		"defaultMessage": "Delete question",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Questions/DeleteQuestion.tsx#31#6#31#30"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Questions/DeleteQuestion.tsx#39#16#39#42"
+			}
+		]
+	},
+	{
+		"id": "Are you sure you want to delete this question? This action is destructive and you will have to contact support to restore your data.",
+		"defaultMessage": "Are you sure you want to delete this question? This action is destructive and you will have to contact support to restore your data.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/DeleteQuestion.tsx#33#24#36#8"
+			}
+		]
+	},
+	{
+		"id": "Delete Question",
+		"defaultMessage": "Delete Question",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/QuestionDetails.tsx#68#23#70#22"
+			}
+		]
+	},
+	{
+		"id": "Edit question",
+		"defaultMessage": "Edit question",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/QuestionDetails.tsx#78#23#80#22"
+			}
+		]
+	},
+	{
+		"id": "Your model was saved",
+		"defaultMessage": "Your model was saved",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Questions/QuestionForm.tsx#56#8#56#37"
+			}
+		]
+	},
+	{
+		"id": "Could not save question",
+		"defaultMessage": "Could not save question",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Questions/QuestionForm.tsx#73#8#73#40"
+			}
+		]
+	},
+	{
+		"id": "You are not able to create/edit a question because your account has been muted",
+		"defaultMessage": "You are not able to create/edit a question because your account has been muted",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/QuestionForm.tsx#101#26#103#10"
+			}
+		]
+	},
+	{
+		"id": "Discard Changes",
+		"defaultMessage": "Discard Changes",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/QuestionForm.tsx#154#19#156#18"
+			}
+		]
+	},
+	{
+		"id": "What is this?",
+		"defaultMessage": "What is this?",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/QuestionInfoModal.tsx#7#23#7#36"
+			}
+		]
+	},
+	{
+		"id": "A user creates an account on Civitai and poses a question on a particular topic.",
+		"defaultMessage": "A user creates an account on Civitai and poses a question on a particular topic.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/QuestionInfoModal.tsx#14#19#16#8"
+			}
+		]
+	},
+	{
+		"id": "Other users who are interested in answering the question can do so by writing a response and submitting it.",
+		"defaultMessage": "Other users who are interested in answering the question can do so by writing a response and submitting it.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/QuestionInfoModal.tsx#17#19#20#8"
+			}
+		]
+	},
+	{
+		"id": "The responses are displayed to all users who visit the question page, and other users can upvote or downvote the responses based on their quality and relevance.",
+		"defaultMessage": "The responses are displayed to all users who visit the question page, and other users can upvote or downvote the responses based on their quality and relevance.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/QuestionInfoModal.tsx#21#19#24#8"
+			}
+		]
+	},
+	{
+		"id": "Civitai ranks the responses based on the upvotes and downvotes, the most highly ranked responses are displayed at the top of the page.",
+		"defaultMessage": "Civitai ranks the responses based on the upvotes and downvotes, the most highly ranked responses are displayed at the top of the page.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/QuestionInfoModal.tsx#25#19#28#8"
+			}
+		]
+	},
+	{
+		"id": "Users can also ask follow-up questions or make comments on the responses.",
+		"defaultMessage": "Users can also ask follow-up questions or make comments on the responses.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/QuestionInfoModal.tsx#29#19#31#8"
+			}
+		]
+	},
+	{
+		"id": "Overall, the goal of this page is to provide users with high-quality, accurate, and informative answers to their questions from a diverse community of fantastic users with years of cumulative knowledge in art, stable diffusion, and model creation.",
+		"defaultMessage": "Overall, the goal of this page is to provide users with high-quality, accurate, and informative answers to their questions from a diverse community of fantastic users with years of cumulative knowledge in art, stable diffusion, and model creation.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Questions/QuestionInfoModal.tsx#34#12#38#6"
+			}
+		]
+	},
+	{
+		"id": "You must be logged in to react to this",
+		"defaultMessage": "You must be logged in to react to this",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Reaction/Reactions.tsx#86#18#86#66"
+			}
+		]
+	},
+	{
+		"id": "You must be logged in to react",
+		"defaultMessage": "You must be logged in to react",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ReactionPicker/ReactionPicker.tsx#49#53#51#14"
+			}
+		]
+	},
+	{
+		"id": "Potential security concern",
+		"defaultMessage": "Potential security concern",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Report/AdminAttentionForm.tsx#8#2#8#30"
+			}
+		]
+	},
+	{
+		"id": "Content that should be reviewed",
+		"defaultMessage": "Content that should be reviewed",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Report/AdminAttentionForm.tsx#9#2#9#35"
+			}
+		]
+	},
+	{
+		"id": "Other concern",
+		"defaultMessage": "Other concern",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Report/AdminAttentionForm.tsx#11#2#11#17"
+			}
+		]
+	},
+	{
+		"id": "Comment (optional)",
+		"defaultMessage": "Comment (optional)",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Report/AdminAttentionForm.tsx#24#38#24#64"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Report/ClaimForm.tsx#10#36#10#62"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Report/NsfwForm.tsx#17#38#17#64"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Report/NsfwForm.tsx#29#38#29#64"
+			}
+		]
+	},
+	{
+		"id": "Select all that apply",
+		"defaultMessage": "Select all that apply",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Report/NsfwForm.tsx#16#54#16#83"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Report/NsfwForm.tsx#28#54#28#83"
+			}
+		]
+	},
+	{
+		"id": "If you believe that this model may have been trained using your art, please complete the form below for review. A review of the claim will only be opened if this is placed by the original artist.",
+		"defaultMessage": "If you believe that this model may have been trained using your art, please complete the form below for review. A review of the claim will only be opened if this is placed by the original artist.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Report/OwnershipForm.tsx#19#16#23#10"
+			}
+		]
+	},
+	{
+		"id": "We will contact you at this address to verify the legitimacy of your claim",
+		"defaultMessage": "We will contact you at this address to verify the legitimacy of your claim",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Report/OwnershipForm.tsx#29#10#29#98"
+			}
+		]
+	},
+	{
+		"id": "Images for comparison",
+		"defaultMessage": "Images for comparison",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Report/OwnershipForm.tsx#37#10#37#39"
+			}
+		]
+	},
+	{
+		"id": "Are you interested in having an official model of your art style created and attributed to you?",
+		"defaultMessage": "Are you interested in having an official model of your art style created and attributed to you?",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Report/OwnershipForm.tsx#46#12#47#35"
+			}
+		]
+	},
+	{
+		"id": "You would receive 70% of any proceeds made from the use of your model on Civitai.",
+		"defaultMessage": "You would receive 70% of any proceeds made from the use of your model on Civitai.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Report/OwnershipForm.tsx#49#20#50#97"
+			}
+		]
+	},
+	{
+		"id": "Learn more",
+		"defaultMessage": "Learn more",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Report/OwnershipForm.tsx#56#17#58#16"
+			}
+		]
+	},
+	{
+		"id": "I'm interested",
+		"defaultMessage": "I'm interested",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Report/OwnershipForm.tsx#62#31#62#53"
+			}
+		]
+	},
+	{
+		"id": "Not at this time",
+		"defaultMessage": "Not at this time",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Report/OwnershipForm.tsx#63#30#63#54"
+			}
+		]
+	},
+	{
+		"id": "Actual person displayed in NSFW context",
+		"defaultMessage": "Actual person displayed in NSFW context",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Report/TosViolationForm.tsx#7#2#7#43"
+			}
+		]
+	},
+	{
+		"id": "Graphic violence",
+		"defaultMessage": "Graphic violence",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Report/TosViolationForm.tsx#8#2#8#20"
+			}
+		]
+	},
+	{
+		"id": "False impersonation",
+		"defaultMessage": "False impersonation",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Report/TosViolationForm.tsx#9#2#9#23"
+			}
+		]
+	},
+	{
+		"id": "Child abuse and exploitation",
+		"defaultMessage": "Child abuse and exploitation",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Report/TosViolationForm.tsx#12#2#12#32"
+			}
+		]
+	},
+	{
+		"id": "Photorealistic depiction of a minor",
+		"defaultMessage": "Photorealistic depiction of a minor",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Report/TosViolationForm.tsx#13#2#13#39"
+			}
+		]
+	},
+	{
+		"id": "Drop your files here or click to select",
+		"defaultMessage": "Drop your files here or click to select",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Files.tsx#95#35#97#12"
+			}
+		]
+	},
+	{
+		"id": "Start Upload",
+		"defaultMessage": "Start Upload",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Files.tsx#105#81#107#8"
+			}
+		]
+	},
+	{
+		"id": "Could not delete file, please try again",
+		"defaultMessage": "Could not delete file, please try again",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/Files.tsx#142#15#142#67"
+			}
+		]
+	},
+	{
+		"id": "Remove file",
+		"defaultMessage": "Remove file",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Files.tsx#163#21#163#40"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Files.tsx#292#19#292#38"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Files.tsx#327#19#327#38"
+			}
+		]
+	},
+	{
+		"id": "File Type",
+		"defaultMessage": "File Type",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Files.tsx#177#44#179#14"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Files.tsx#408#8#408#25"
+			}
+		]
+	},
+	{
+		"id": "Model size",
+		"defaultMessage": "Model size",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Files.tsx#191#48#193#18"
+			}
+		]
+	},
+	{
+		"id": "Floating point",
+		"defaultMessage": "Floating point",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Files.tsx#199#48#201#18"
+			}
+		]
+	},
+	{
+		"id": "Cancel upload",
+		"defaultMessage": "Cancel upload",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Files.tsx#272#23#272#44"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/UploadTracker.tsx#81#25#81#46"
+			}
+		]
+	},
+	{
+		"id": "Aborted upload",
+		"defaultMessage": "Aborted upload",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Files.tsx#290#28#290#42"
+			}
+		]
+	},
+	{
+		"id": "Failed to upload",
+		"defaultMessage": "Failed to upload",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Files.tsx#304#28#304#44"
+			}
+		]
+	},
+	{
+		"id": "Retry upload",
+		"defaultMessage": "Retry upload",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Files.tsx#306#19#306#39"
+			}
+		]
+	},
+	{
+		"id": "Upload completed",
+		"defaultMessage": "Upload completed",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Files.tsx#317#26#317#42"
+			}
+		]
+	},
+	{
+		"id": "Pending upload",
+		"defaultMessage": "Pending upload",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Files.tsx#325#28#325#42"
+			}
+		]
+	},
+	{
+		"id": "Select a type",
+		"defaultMessage": "Select a type",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Files.tsx#409#8#409#35"
+			}
+		]
+	},
+	{
+		"id": "Reset",
+		"defaultMessage": "Reset",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Files.tsx#456#79#458#10"
+			}
+		]
+	},
+	{
+		"id": "FilesContext not in tree",
+		"defaultMessage": "FilesContext not in tree",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#67#22#67#59"
+			}
+		]
+	},
+	{
+		"id": "Failed to publish version",
+		"defaultMessage": "Failed to publish version",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#129#8#129#42"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#142#8#142#42"
+			}
+		]
+	},
+	{
+		"id": "Version published",
+		"defaultMessage": "Version published",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#152#6#152#32"
+			}
+		]
+	},
+	{
+		"id": "Your version has been published and is now available to the public.",
+		"defaultMessage": "Your version has been published and is now available to the public.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#157#41#159#10"
+			}
+		]
+	},
+	{
+		"id": "Go to model",
+		"defaultMessage": "Go to model",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#161#82#163#12"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#228#85#230#18"
+			}
+		]
+	},
+	{
+		"id": "There are multiple files with the same type and size, please adjust your files",
+		"defaultMessage": "There are multiple files with the same type and size, please adjust your files",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#193#15#195#9"
+			}
+		]
+	},
+	{
+		"id": "All files finished uploading.",
+		"defaultMessage": "All files finished uploading.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#221#47#223#16"
+			}
+		]
+	},
+	{
+		"id": "Publish it",
+		"defaultMessage": "Publish it",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#258#17#260#16"
+			}
+		]
+	},
+	{
+		"id": "Your files have finished uploading, but you still need to add a post.",
+		"defaultMessage": "Your files have finished uploading, but you still need to add a post.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#264#47#266#16"
+			}
+		]
+	},
+	{
+		"id": "Finish setup",
+		"defaultMessage": "Finish setup",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#271#85#273#18"
+			}
+		]
+	},
+	{
+		"id": "Failed to save file",
+		"defaultMessage": "Failed to save file",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#286#8#286#36"
+			}
+		]
+	},
+	{
+		"id": "Please select the checkpoint type",
+		"defaultMessage": "Please select the checkpoint type",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/Forms/ModelUpsertForm.tsx#35#4#35#48"
+			}
+		]
+	},
+	{
+		"id": "Checkpoint Type",
+		"defaultMessage": "Checkpoint Type",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Forms/ModelUpsertForm.tsx#142#33#142#56"
+			}
+		]
+	},
+	{
+		"id": "Nothing found",
+		"defaultMessage": "Nothing found",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Forms/ModelUpsertForm.tsx#176#14#176#42"
+			}
+		]
+	},
+	{
+		"id": "Use without crediting me",
+		"defaultMessage": "Use without crediting me",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Forms/ModelUpsertForm.tsx#209#56#209#88"
+			}
+		]
+	},
+	{
+		"id": "Commercial Use",
+		"defaultMessage": "Commercial Use",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Forms/ModelUpsertForm.tsx#221#74#223#20"
+			}
+		]
+	},
+	{
+		"id": "This resource:",
+		"defaultMessage": "This resource:",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Forms/ModelUpsertForm.tsx#280#45#282#16"
+			}
+		]
+	},
+	{
+		"id": "Depicts an actual person",
+		"defaultMessage": "Depicts an actual person",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Forms/ModelUpsertForm.tsx#285#18#285#50"
+			}
+		]
+	},
+	{
+		"id": "For Example: Tom Cruise or Tom Cruise as Maverick",
+		"defaultMessage": "For Example: Tom Cruise or Tom Cruise as Maverick",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Forms/ModelUpsertForm.tsx#286#18#286#81"
+			}
+		]
+	},
+	{
+		"id": "Is intended to produce mature themes only",
+		"defaultMessage": "Is intended to produce mature themes only",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Forms/ModelUpsertForm.tsx#288#43#288#92"
+			}
+		]
+	},
+	{
+		"id": "Mature content depicting actual people is not permitted.",
+		"defaultMessage": "Mature content depicting actual people is not permitted.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Forms/ModelUpsertForm.tsx#298#61#300#20"
+			}
+		]
+	},
+	{
+		"id": "Please revise the content of this listing to ensure no actual person is depicted in an mature context out of respect for the individual.",
+		"defaultMessage": "Please revise the content of this listing to ensure no actual person is depicted in an mature context out of respect for the individual.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Forms/ModelUpsertForm.tsx#303#72#306#16"
+			}
+		]
+	},
+	{
+		"id": "Invalid value",
+		"defaultMessage": "Invalid value",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/Forms/ModelVersionUpsertForm.tsx#34#8#34#32"
+			}
+		]
+	},
+	{
+		"id": "You need to specify at least one trained word",
+		"defaultMessage": "You need to specify at least one trained word",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/Forms/ModelVersionUpsertForm.tsx#38#4#38#60"
+			}
+		]
+	},
+	{
+		"id": "Failed to saved model version",
+		"defaultMessage": "Failed to saved model version",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/Forms/ModelVersionUpsertForm.tsx#85#8#85#46"
+			}
+		]
+	},
+	{
+		"id": "Get feedback on your model before full release",
+		"defaultMessage": "Get feedback on your model before full release",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Forms/ModelVersionUpsertForm.tsx#143#16#143#70"
+			}
+		]
+	},
+	{
+		"id": "Tell us about this version",
+		"defaultMessage": "Tell us about this version",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Forms/ModelVersionUpsertForm.tsx#197#12#197#52"
+			}
+		]
+	},
+	{
+		"id": "e.g.: Master Chief",
+		"defaultMessage": "e.g.: Master Chief",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Forms/ModelVersionUpsertForm.tsx#207#18#207#50"
+			}
+		]
+	},
+	{
+		"id": "Save draft",
+		"defaultMessage": "Save draft",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Forms/PostUpsertForm.tsx#163#44#165#8"
+			}
+		]
+	},
+	{
+		"id": "Files",
+		"defaultMessage": "Files",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/UploadTracker.tsx#48#40#50#10"
+			}
+		]
+	},
+	{
+		"id": "Next",
+		"defaultMessage": "Next",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Wizard/ModelVersionWizard.tsx#124#60#126#20"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Wizard/ModelVersionWizard.tsx#166#17#168#16"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Wizard/ModelWizard.tsx#153#60#155#20"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Wizard/ModelWizard.tsx#174#60#176#20"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Wizard/ModelWizard.tsx#220#17#222#16"
+			}
+		]
+	},
+	{
+		"id": "Back",
+		"defaultMessage": "Back",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Wizard/ModelVersionWizard.tsx#137#59#139#16"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Wizard/ModelWizard.tsx#171#63#173#20"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Resource/Wizard/ModelWizard.tsx#191#59#193#16"
+			}
+		]
+	},
+	{
+		"id": "You have not uploaded any files. You can continue without files, but you will not be able to publish your model. Are you sure you want to continue?",
+		"defaultMessage": "You have not uploaded any files. You can continue without files, but you will not be able to publish your model. Are you sure you want to continue?",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/Wizard/ModelVersionWizard.tsx#157#24#158#175"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/Wizard/ModelWizard.tsx#211#24#212#175"
+			}
+		]
+	},
+	{
+		"id": "useWizardContext must be used within a WizardProvider",
+		"defaultMessage": "useWizardContext must be used within a WizardProvider",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/Wizard/Wizard.tsx#34#22#34#88"
+			}
+		]
+	},
+	{
+		"id": "Reviewed",
+		"defaultMessage": "Reviewed",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/EditResourceReview.tsx#104#30#105#25"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/EditUserResourceReview.tsx#107#28#108#23"
+			}
+		]
+	},
+	{
+		"id": "Edit Review",
+		"defaultMessage": "Edit Review",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/ResourceReview/EditResourceReviewModal.tsx#15#2#15#22"
+			}
+		]
+	},
+	{
+		"id": "Images this user generated with this resource",
+		"defaultMessage": "Images this user generated with this resource",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/ResourceReviewCarousel.tsx#197#56#199#8"
+			}
+		]
+	},
+	{
+		"id": "Review:",
+		"defaultMessage": "Review:",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/ResourceReviewDetail.tsx#74#53#74#60"
+			}
+		]
+	},
+	{
+		"id": "Related posts",
+		"defaultMessage": "Related posts",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/ResourceReviewDetail.tsx#146#60#148#14"
+			}
+		]
+	},
+	{
+		"id": "Comments or feedback",
+		"defaultMessage": "Comments or feedback",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/ResourceReviewForm.tsx#25#10#25#38"
+			}
+		]
+	},
+	{
+		"id": "SummaryContext not in tree",
+		"defaultMessage": "SummaryContext not in tree",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/ResourceReview/Summary/ResourceReviewSummary.tsx#23#22#23#61"
+			}
+		]
+	},
+	{
+		"id": "Insert Image",
+		"defaultMessage": "Insert Image",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/RichTextEditor/InsertImageControl.tsx#35#6#35#31"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/RichTextEditor/InsertImageControl.tsx#36#6#36#26"
+			}
+		]
+	},
+	{
+		"id": "The URL you entered is not allowed. You can submit a request to add it to the whitelist. Please follow",
+		"defaultMessage": "The URL you entered is not allowed. You can submit a request to add it to the whitelist. Please follow",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/RichTextEditor/RichTextEditor.tsx#67#12#69#21"
+			}
+		]
+	},
+	{
+		"id": "Sensitive Content",
+		"defaultMessage": "Sensitive Content",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/SensitiveShield/SensitiveShield.tsx#13#39#15#10"
+			}
+		]
+	},
+	{
+		"id": "This content has been marked as NSFW",
+		"defaultMessage": "This content has been marked as NSFW",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/SensitiveShield/SensitiveShield.tsx#16#16#16#52"
+			}
+		]
+	},
+	{
+		"id": "Log in to view",
+		"defaultMessage": "Log in to view",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/SensitiveShield/SensitiveShield.tsx#22#13#24#12"
+			}
+		]
+	},
+	{
+		"id": "To confirm your identity, sign in with the same account you used originally.",
+		"defaultMessage": "To confirm your identity, sign in with the same account you used originally.",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/SignInError/SignInError.tsx#10#2#11#82"
+			}
+		]
+	},
+	{
+		"id": "Sign in failed. Check the details you provided are correct.",
+		"defaultMessage": "Sign in failed. Check the details you provided are correct.",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/SignInError/SignInError.tsx#13#2#13#82"
+			}
+		]
+	},
+	{
+		"id": "Unable to sign in.",
+		"defaultMessage": "Unable to sign in.",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/SignInError/SignInError.tsx#14#2#14#31"
+			}
+		]
+	},
+	{
+		"id": "Supporter Tier",
+		"defaultMessage": "Supporter Tier",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Stripe/PlanDetails.tsx#47#4#47#26"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/subscribe/[plan].tsx#8#4#8#26"
+			}
+		]
+	},
+	{
+		"id": "Limited time supporter option",
+		"defaultMessage": "Limited time supporter option",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Stripe/PlanDetails.tsx#51#8#51#48"
+			}
+		]
+	},
+	{
+		"id": "Early access to",
+		"defaultMessage": "Early access to",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Stripe/PlanDetails.tsx#57#16#58#27"
+			}
+		]
+	},
+	{
+		"id": "Unique Supporter Tier badge",
+		"defaultMessage": "Unique Supporter Tier badge",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Stripe/PlanDetails.tsx#70#8#70#46"
+			}
+		]
+	},
+	{
+		"id": "Unique nameplate color",
+		"defaultMessage": "Unique nameplate color",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Stripe/PlanDetails.tsx#71#8#71#41"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/pricing.tsx#151#26#151#59"
+			}
+		]
+	},
+	{
+		"id": "More coming soon!",
+		"defaultMessage": "More coming soon!",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Stripe/PlanDetails.tsx#73#8#73#36"
+			}
+		]
+	},
+	{
+		"id": "Subscribe",
+		"defaultMessage": "Subscribe",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Stripe/SubscribeButton.tsx#47#56#49#10"
+			}
+		]
+	},
+	{
+		"id": "*Email Required. Click here to set it.",
+		"defaultMessage": "*Email Required. Click here to set it.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Stripe/SubscribeButton.tsx#50#80#52#10"
+			}
+		]
+	},
+	{
+		"id": "translateZ(0)",
+		"defaultMessage": "translateZ(0)",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/SupportButton/SupportButton.tsx#73#4#73#30"
+			}
+		]
+	},
+	{
+		"id": "scale(1) translateZ(0)",
+		"defaultMessage": "scale(1) translateZ(0)",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/SupportButton/SupportButton.tsx#90#4#90#39"
+			}
+		]
+	},
+	{
+		"id": "Copied!",
+		"defaultMessage": "Copied!",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/TrainedWords/TrainedWords.tsx#51#17#51#32"
+			}
+		]
+	},
+	{
+		"id": "Are you sure you want to delete this model? This action is destructive and you will have to contact support to restore your data.",
+		"defaultMessage": "Are you sure you want to delete this model? This action is destructive and you will have to contact support to restore your data.",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/User/UserDraftModels.tsx#75#6#76#139"
+			}
+		]
+	},
+	{
+		"id": "Last Updated",
+		"defaultMessage": "Last Updated",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/User/UserDraftModels.tsx#98#18#98#30"
+			}
+		]
+	},
+	{
+		"id": "Missing info",
+		"defaultMessage": "Missing info",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/User/UserDraftModels.tsx#99#18#99#30"
+			}
+		]
+	},
+	{
+		"id": "Needs model version",
+		"defaultMessage": "Needs model version",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/User/UserDraftModels.tsx#140#56#140#75"
+			}
+		]
+	},
+	{
+		"id": "Average Rating",
+		"defaultMessage": "Average Rating",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/UserStatBadges/UserStatBadges.tsx#38#10#38#34"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/[username]/index.tsx#486#32#486#56"
+			}
+		]
+	},
+	{
+		"id": "File",
+		"defaultMessage": "File",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/VerifiedShield/VerifiedShield.tsx#63#79#64#15"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/VerifiedText/VerifiedText.tsx#79#85#80#21"
+			}
+		]
+	},
+	{
+		"id": "Scanned:",
+		"defaultMessage": "Scanned:",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/VerifiedShield/VerifiedShield.tsx#75#43#76#23"
+			}
+		]
+	},
+	{
+		"id": "What does this mean?",
+		"defaultMessage": "What does this mean?",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/VerifiedShield/VerifiedShield.tsx#86#11#88#10"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/VerifiedText/VerifiedText.tsx#96#15#98#14"
+			}
+		]
+	},
+	{
+		"id": "Scan requested",
+		"defaultMessage": "Scan requested",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/VerifiedText/VerifiedText.tsx#74#20#74#34"
+			}
+		]
+	},
+	{
+		"id": "Moderated Content",
+		"defaultMessage": "Moderated Content",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/VotableTags/VotableTagMature.tsx#40#52#42#10"
+			}
+		]
+	},
+	{
+		"id": "Moderated Content Tags",
+		"defaultMessage": "Moderated Content Tags",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/VotableTags/VotableTagMature.tsx#47#41#49#10"
+			}
+		]
+	},
+	{
+		"id": "Embedded youtube",
+		"defaultMessage": "Embedded youtube",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/YoutubeEmbed/YoutubeEmbed.tsx#27#6#27#30"
+			}
+		]
+	},
+	{
+		"id": "Missing key",
+		"defaultMessage": "Missing key",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/download/[...key].ts#18#42#18#62"
+			}
+		]
+	},
+	{
+		"id": "Invalid database operation",
+		"defaultMessage": "Invalid database operation",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/download/[...key].ts#47#34#47#69"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/download/models/[modelVersionId].ts#195#36#195#71"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/run/[modelVersionId].ts#75#34#75#69"
+			}
+		]
+	},
+	{
+		"id": "Missing modelVersionId",
+		"defaultMessage": "Missing modelVersionId",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/download/models/[modelVersionId].ts#67#55#67#86"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/run/[modelVersionId].ts#21#53#21#84"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/v1/model-versions/[id].ts#28#41#28#72"
+			}
+		]
+	},
+	{
+		"id": "Model archived, not available for download",
+		"defaultMessage": "Model archived, not available for download",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/download/models/[modelVersionId].ts#123#36#123#87"
+			}
+		]
+	},
+	{
+		"id": "Error downloading file",
+		"defaultMessage": "Error downloading file",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/download/models/[modelVersionId].ts#205#36#205#67"
+			}
+		]
+	},
+	{
+		"id": "Only POST requests allowed",
+		"defaultMessage": "Only POST requests allowed",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/image/ingest.ts#12#27#12#64"
+			}
+		]
+	},
+	{
+		"id": "Image scanning is not enabled",
+		"defaultMessage": "Image scanning is not enabled",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/mod/scan-images.ts#23#36#23#74"
+			}
+		]
+	},
+	{
+		"id": "This is protected content. You can access this content because you are signed in.",
+		"defaultMessage": "This is protected content. You can access this content because you are signed in.",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/restricted.ts#11#6#11#98"
+			}
+		]
+	},
+	{
+		"id": "You must be signed in to view the protected content on this page.",
+		"defaultMessage": "You must be signed in to view the protected content on this page.",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/restricted.ts#15#6#15#80"
+			}
+		]
+	},
+	{
+		"id": "Model not found",
+		"defaultMessage": "Model not found",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/run/[modelVersionId].ts#45#51#45#75"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/v1/model-versions/[id].ts#100#51#100#75"
+			}
+		]
+	},
+	{
+		"id": "Internal server error",
+		"defaultMessage": "Internal server error",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/v1/content/[[...slug]].ts#15#39#15#69"
+			}
+		]
+	},
+	{
+		"id": "An unexpected error occurred",
+		"defaultMessage": "An unexpected error occurred",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/v1/creators.ts#36#29#36#68"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/v1/models/[id].ts#96#29#96#68"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/v1/models/index.ts#112#29#112#68"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/v1/tags.ts#44#29#44#68"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/v1/users/index.ts#32#29#32#68"
+			}
+		]
+	},
+	{
+		"id": "Missing model file",
+		"defaultMessage": "Missing model file",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/v1/model-versions/[id].ts#104#43#104#70"
+			}
+		]
+	},
+	{
+		"id": "Missing modelId",
+		"defaultMessage": "Missing modelId",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/v1/models/[id].ts#28#41#28#65"
+			}
+		]
+	},
+	{
+		"id": "Method Not Allowed",
+		"defaultMessage": "Method Not Allowed",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/webhooks/image-scan-result.ts#29#45#29#72"
+			}
+		]
+	},
+	{
+		"id": "Image not found",
+		"defaultMessage": "Image not found",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/webhooks/image-scan-result.ts#121#46#121#70"
+			}
+		]
+	},
+	{
+		"id": "Method not allowed",
+		"defaultMessage": "Method not allowed",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/webhooks/scan-result.ts#12#59#12#86"
+			}
+		]
+	},
+	{
+		"id": "File not found",
+		"defaultMessage": "File not found",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/webhooks/scan-result.ts#20#43#20#66"
+			}
+		]
+	},
+	{
+		"id": "Object is not async iterable",
+		"defaultMessage": "Object is not async iterable",
+		"source": [
+			{
+				"type": "text",
+				"location": "babel-helper:/asyncIterator#!!!#!!!#!!!#!!!"
+			}
+		]
+	},
+	{
+		"id": "Unhandled relevant event!",
+		"defaultMessage": "Unhandled relevant event!",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/webhooks/stripe.ts#98#18#98#56"
+			}
+		]
+	},
+	{
+		"id": "Civitai + Discord = ❤️",
+		"defaultMessage": "Civitai + Discord = ❤️",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/discord/link-role.tsx#74#69#76#12"
+			}
+		]
+	},
+	{
+		"id": "Back to the models!",
+		"defaultMessage": "Back to the models!",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/discord/link-role.tsx#88#84#90#12"
+			}
+		]
+	},
+	{
+		"id": "Connect your Discord account to your Civitai account",
+		"defaultMessage": "Connect your Discord account to your Civitai account",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/discord/link-role.tsx#94#54#96#12"
+			}
+		]
+	},
+	{
+		"id": "Even if you have already connected your Discord account, you will need to click the button to link your role.",
+		"defaultMessage": "Even if you have already connected your Discord account, you will need to click the button to link your role.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/discord/link-role.tsx#107#73#110#12"
+			}
+		]
+	},
+	{
+		"id": "Browse the Civitai Image Gallery, featuring AI-generated images along with prompts and resources used for their creation, showcasing the creativity of our talented community.",
+		"defaultMessage": "Browse the Civitai Image Gallery, featuring AI-generated images along with prompts and resources used for their creation, showcasing the creativity of our talented community.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/images/index.tsx#31#8#31#196"
+			}
+		]
+	},
+	{
+		"id": "Civitai is a platform for Stable Diffusion AI Art models. Browse a collection of thousands of models from a growing number of creators. Join an engaged community in reviewing models and sharing images with prompts to get you started.",
+		"defaultMessage": "Civitai is a platform for Stable Diffusion AI Art models. Browse a collection of thousands of models from a growing number of creators. Join an engaged community in reviewing models and sharing images with prompts to get you started.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/index.tsx#53#8#53#255"
+			}
+		]
+	},
+	{
+		"id": "Clear Search",
+		"defaultMessage": "Clear Search",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/index.tsx#89#100#91#22"
+			}
+		]
+	},
+	{
+		"id": "Creators Leaderboard | Civitai",
+		"defaultMessage": "Creators Leaderboard | Civitai",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/leaderboard.tsx#36#8#36#46"
+			}
+		]
+	},
+	{
+		"id": "Creators Leaderboard",
+		"defaultMessage": "Creators Leaderboard",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/leaderboard.tsx#46#57#48#14"
+			}
+		]
+	},
+	{
+		"id": "Climb to the top by engaging the community",
+		"defaultMessage": "Climb to the top by engaging the community",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/leaderboard.tsx#50#74#52#16"
+			}
+		]
+	},
+	{
+		"id": "Rank is calculated based on:",
+		"defaultMessage": "Rank is calculated based on:",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/leaderboard.tsx#61#41#61#69"
+			}
+		]
+	},
+	{
+		"id": "Only the last 30 days are considered",
+		"defaultMessage": "Only the last 30 days are considered",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/leaderboard.tsx#65#53#67#22"
+			}
+		]
+	},
+	{
+		"id": "Welcome to Civitai, sign in with",
+		"defaultMessage": "Welcome to Civitai, sign in with",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/login.tsx#39#39#41#10"
+			}
+		]
+	},
+	{
+		"id": "Login Error",
+		"defaultMessage": "Login Error",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/login.tsx#63#14#63#33"
+			}
+		]
+	},
+	{
+		"id": "Successfully deleted the model",
+		"defaultMessage": "Successfully deleted the model",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#200#8#200#47"
+			}
+		]
+	},
+	{
+		"id": "Your model has been deleted",
+		"defaultMessage": "Your model has been deleted",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#201#8#201#46"
+			}
+		]
+	},
+	{
+		"id": "Unable to delete version",
+		"defaultMessage": "Unable to delete version",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#316#8#316#41"
+			}
+		]
+	},
+	{
+		"id": "Delete Version",
+		"defaultMessage": "Delete Version",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#325#6#325#29"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#329#16#329#41"
+			}
+		]
+	},
+	{
+		"id": "Are you sure you want to delete this version? This action is destructive and cannot be reverted.",
+		"defaultMessage": "Are you sure you want to delete this version? This action is destructive and cannot be reverted.",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#326#6#327#106"
+			}
+		]
+	},
+	{
+		"id": "Unable to change mode",
+		"defaultMessage": "Unable to change mode",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#355#12#355#42"
+			}
+		]
+	},
+	{
+		"id": "Restore",
+		"defaultMessage": "Restore",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#527#23#529#22"
+			}
+		]
+	},
+	{
+		"id": "Permanently Delete Model",
+		"defaultMessage": "Permanently Delete Model",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#546#25#548#24"
+			}
+		]
+	},
+	{
+		"id": "Delete Model",
+		"defaultMessage": "Delete Model",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#557#25#559#24"
+			}
+		]
+	},
+	{
+		"id": "Edit Model",
+		"defaultMessage": "Edit Model",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#563#25#565#24"
+			}
+		]
+	},
+	{
+		"id": "Archive",
+		"defaultMessage": "Archive",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#571#29#573#28"
+			}
+		]
+	},
+	{
+		"id": "Take Down",
+		"defaultMessage": "Take Down",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#578#31#580#30"
+			}
+		]
+	},
+	{
+		"id": "Bring Back",
+		"defaultMessage": "Bring Back",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#588#27#590#26"
+			}
+		]
+	},
+	{
+		"id": "Hide content with these tags",
+		"defaultMessage": "Hide content with these tags",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#616#25#618#24"
+			}
+		]
+	},
+	{
+		"id": "Updated:",
+		"defaultMessage": "Updated:",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#643#47#644#27"
+			}
+		]
+	},
+	{
+		"id": "This model has been",
+		"defaultMessage": "This model has been",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#682#34#683#40"
+			}
+		]
+	},
+	{
+		"id": "This model has been unpublished due to a violation of our",
+		"defaultMessage": "This model has been unpublished due to a violation of our",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#695#42#696#77"
+			}
+		]
+	},
+	{
+		"id": "If you adjust your model to comply with our guidelines, you can request a review from one of our moderators. If you believe this was done in error, you can",
+		"defaultMessage": "If you adjust your model to comply with our guidelines, you can request a review from one of our moderators. If you believe this was done in error, you can",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#703#34#705#94"
+			}
+		]
+	},
+	{
+		"id": "This model is currently being reviewed by our moderators. It will be visible to the community once it has been approved.",
+		"defaultMessage": "This model is currently being reviewed by our moderators. It will be visible to the community once it has been approved.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#720#34#723#18"
+			}
+		]
+	},
+	{
+		"id": "The images on this",
+		"defaultMessage": "The images on this",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#733#34#734#39"
+			}
+		]
+	},
+	{
+		"id": "are inaccurate. Please submit reviews with images so that we can improve this page.",
+		"defaultMessage": "are inaccurate. Please submit reviews with images so that we can improve this page.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#734#81#736#18"
+			}
+		]
+	},
+	{
+		"id": "Add Version",
+		"defaultMessage": "Add Version",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#751#31#751#50"
+			}
+		]
+	},
+	{
+		"id": "Add Comment",
+		"defaultMessage": "Add Comment",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#814#29#816#28"
+			}
+		]
+	},
+	{
+		"id": "You must be a Supporter Tier member to join this discussion",
+		"defaultMessage": "You must be a Supporter Tier member to join this discussion",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#821#39#821#108"
+			}
+		]
+	},
+	{
+		"id": "Discussion is turned off for this model.",
+		"defaultMessage": "Discussion is turned off for this model.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#873#51#875#20"
+			}
+		]
+	},
+	{
+		"id": "You must be logged in to leave a review",
+		"defaultMessage": "You must be logged in to leave a review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/reviews.tsx#138#11#138#50"
+			}
+		]
+	},
+	{
+		"id": "Select a model version to leave a review",
+		"defaultMessage": "Select a model version to leave a review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/reviews.tsx#140#11#140#51"
+			}
+		]
+	},
+	{
+		"id": "Leave a review",
+		"defaultMessage": "Leave a review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/reviews.tsx#147#25#147#39"
+			}
+		]
+	},
+	{
+		"id": "Reviews are turned off for this model.",
+		"defaultMessage": "Reviews are turned off for this model.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/reviews.tsx#182#47#184#16"
+			}
+		]
+	},
+	{
+		"id": "Grabbing the latest data...",
+		"defaultMessage": "Grabbing the latest data...",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/moderator/image-tags.tsx#130#6#130#44"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/moderator/images.tsx#165#6#165#44"
+			}
+		]
+	},
+	{
+		"id": "Clear selection",
+		"defaultMessage": "Clear selection",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/image-tags.tsx#169#27#169#50"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/images.tsx#204#27#204#50"
+			}
+		]
+	},
+	{
+		"id": "Approve selected",
+		"defaultMessage": "Approve selected",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/image-tags.tsx#180#29#180#53"
+			}
+		]
+	},
+	{
+		"id": "Decline selected",
+		"defaultMessage": "Decline selected",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/image-tags.tsx#192#29#192#53"
+			}
+		]
+	},
+	{
+		"id": "Tags Needing Review",
+		"defaultMessage": "Tags Needing Review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/image-tags.tsx#207#27#207#46"
+			}
+		]
+	},
+	{
+		"id": "These are images with moderation tags that users have voted to remove.",
+		"defaultMessage": "These are images with moderation tags that users have voted to remove.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/image-tags.tsx#208#31#210#10"
+			}
+		]
+	},
+	{
+		"id": "There are no tags that need review",
+		"defaultMessage": "There are no tags that need review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/image-tags.tsx#231#29#231#73"
+			}
+		]
+	},
+	{
+		"id": "Add tag",
+		"defaultMessage": "Add tag",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/images.tsx#211#31#211#46"
+			}
+		]
+	},
+	{
+		"id": "Add Tag",
+		"defaultMessage": "Add Tag",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/images.tsx#218#28#218#35"
+			}
+		]
+	},
+	{
+		"id": "Remove tag",
+		"defaultMessage": "Remove tag",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/images.tsx#228#31#228#49"
+			}
+		]
+	},
+	{
+		"id": "Remove Tag",
+		"defaultMessage": "Remove Tag",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/images.tsx#235#28#235#38"
+			}
+		]
+	},
+	{
+		"id": "Images Needing Review",
+		"defaultMessage": "Images Needing Review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/images.tsx#276#27#276#48"
+			}
+		]
+	},
+	{
+		"id": "These are images that have been marked by our AI which needs further attention from the mods",
+		"defaultMessage": "These are images that have been marked by our AI which needs further attention from the mods",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/images.tsx#277#31#280#10"
+			}
+		]
+	},
+	{
+		"id": "There are no images that need review",
+		"defaultMessage": "There are no images that need review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/images.tsx#302#29#302#75"
+			}
+		]
+	},
+	{
+		"id": "Run Download",
+		"defaultMessage": "Run Download",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/link-demo.tsx#173#48#173#60"
+			}
+		]
+	},
+	{
+		"id": "Remove Downloaded",
+		"defaultMessage": "Remove Downloaded",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/link-demo.tsx#175#51#175#68"
+			}
+		]
+	},
+	{
+		"id": "Models Needing Review",
+		"defaultMessage": "Models Needing Review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/models.tsx#87#25#87#46"
+			}
+		]
+	},
+	{
+		"id": "Unpublished models for violating ToS which their owners have request a review",
+		"defaultMessage": "Unpublished models for violating ToS which their owners have request a review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/models.tsx#88#39#90#8"
+			}
+		]
+	},
+	{
+		"id": "Unpublished at:",
+		"defaultMessage": "Unpublished at:",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/models.tsx#121#55#122#42"
+			}
+		]
+	},
+	{
+		"id": "Reason initially unpublished:",
+		"defaultMessage": "Reason initially unpublished:",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/models.tsx#127#60#129#26"
+			}
+		]
+	},
+	{
+		"id": "Decline Request",
+		"defaultMessage": "Decline Request",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/models.tsx#143#21#145#20"
+			}
+		]
+	},
+	{
+		"id": "Send",
+		"defaultMessage": "Send",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/models.tsx#175#97#177#16"
+			}
+		]
+	},
+	{
+		"id": "There are no models that need review",
+		"defaultMessage": "There are no models that need review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/models.tsx#185#43#187#12"
+			}
+		]
+	},
+	{
+		"id": "Reported by",
+		"defaultMessage": "Reported by",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/moderator/reports.tsx#202#8#202#29"
+			}
+		]
+	},
+	{
+		"id": "Also reported by",
+		"defaultMessage": "Also reported by",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/moderator/reports.tsx#214#8#214#34"
+			}
+		]
+	},
+	{
+		"id": "Report updated successfully",
+		"defaultMessage": "Report updated successfully",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/moderator/reports.tsx#308#8#308#44"
+			}
+		]
+	},
+	{
+		"id": "Internal notes have been saved",
+		"defaultMessage": "Internal notes have been saved",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/moderator/reports.tsx#309#8#309#49"
+			}
+		]
+	},
+	{
+		"id": "Use this input to set the status of the report",
+		"defaultMessage": "Use this input to set the status of the report",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/reports.tsx#363#12#363#72"
+			}
+		]
+	},
+	{
+		"id": "Leave an internal note for future reference (optional)",
+		"defaultMessage": "Leave an internal note for future reference (optional)",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/reports.tsx#373#16#373#84"
+			}
+		]
+	},
+	{
+		"id": "Image",
+		"defaultMessage": "Image",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/moderator/reports.tsx#420#19#421#26"
+			}
+		]
+	},
+	{
+		"id": "Claiming User",
+		"defaultMessage": "Claiming User",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/moderator/reports.tsx#458#6#458#28"
+			}
+		]
+	},
+	{
+		"id": "Payment Complete!",
+		"defaultMessage": "Payment Complete!",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/payment/success.tsx#44#29#44#46"
+			}
+		]
+	},
+	{
+		"id": "Thank you! 🎉",
+		"defaultMessage": "Thank you! 🎉",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/payment/success.tsx#58#40#60#8"
+			}
+		]
+	},
+	{
+		"id": "View Models",
+		"defaultMessage": "View Models",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/payment/success.tsx#66#93#68#10"
+			}
+		]
+	},
+	{
+		"id": "Edit Profile",
+		"defaultMessage": "Edit Profile",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/payment/success.tsx#75#11#77#10"
+			}
+		]
+	},
+	{
+		"id": "Complete your review",
+		"defaultMessage": "Complete your review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/posts/[postId]/edit.tsx#28#10#28#38"
+			}
+		]
+	},
+	{
+		"id": "To complete your review give your post a tag and hit publish.",
+		"defaultMessage": "To complete your review give your post a tag and hit publish.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/posts/[postId]/edit.tsx#35#10#35#81"
+			}
+		]
+	},
+	{
+		"id": "Posting to",
+		"defaultMessage": "Posting to",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/posts/create.tsx#126#45#127#26"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/posts/create.tsx#137#45#138#26"
+			}
+		]
+	},
+	{
+		"id": "Select a resource to ensure that all uploaded images receive correct resource attribution",
+		"defaultMessage": "Select a resource to ensure that all uploaded images receive correct resource attribution",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/posts/create.tsx#147#14#147#117"
+			}
+		]
+	},
+	{
+		"id": "Select a resource",
+		"defaultMessage": "Select a resource",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/posts/create.tsx#148#14#148#45"
+			}
+		]
+	},
+	{
+		"id": "What did you think of this resource?",
+		"defaultMessage": "What did you think of this resource?",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/posts/create.tsx#159#29#159#73"
+			}
+		]
+	},
+	{
+		"id": "Back to Categories",
+		"defaultMessage": "Back to Categories",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/posts/feed.tsx#57#35#59#14"
+			}
+		]
+	},
+	{
+		"id": "Discover engaging posts from our growing community on Civitai, featuring unique and creative content generated with custom Stable Diffusion AI resources crafted by talented community members.",
+		"defaultMessage": "Discover engaging posts from our growing community on Civitai, featuring unique and creative content generated with custom Stable Diffusion AI resources crafted by talented community members.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/posts/index.tsx#30#8#30#213"
+			}
+		]
+	},
+	{
+		"id": "Donate",
+		"defaultMessage": "Donate",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/pricing.tsx#80#77#82#12"
+			}
+		]
+	},
+	{
+		"id": "There are no products to display",
+		"defaultMessage": "There are no products to display",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/pricing.tsx#93#32#93#72"
+			}
+		]
+	},
+	{
+		"id": "Check back in a little while to see what we have to offer",
+		"defaultMessage": "Check back in a little while to see what we have to offer",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/pricing.tsx#93#73#95#18"
+			}
+		]
+	},
+	{
+		"id": "Manage your Membership",
+		"defaultMessage": "Manage your Membership",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/pricing.tsx#124#28#124#50"
+			}
+		]
+	},
+	{
+		"id": "One-time Donation",
+		"defaultMessage": "One-time Donation",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/pricing.tsx#144#84#146#22"
+			}
+		]
+	},
+	{
+		"id": "Unique Donator badge",
+		"defaultMessage": "Unique Donator badge",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/pricing.tsx#150#26#150#57"
+			}
+		]
+	},
+	{
+		"id": "Your answer",
+		"defaultMessage": "Your answer",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/questions/[questionId]/[[...questionDetailSlug]].tsx#117#31#117#42"
+			}
+		]
+	},
+	{
+		"id": "Additional Info",
+		"defaultMessage": "Additional Info",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/questions/index.tsx#36#28#36#43"
+			}
+		]
+	},
+	{
+		"id": "Questions | Civitai",
+		"defaultMessage": "Questions | Civitai",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/questions/index.tsx#47#12#47#39"
+			}
+		]
+	},
+	{
+		"id": "Ask question",
+		"defaultMessage": "Ask question",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/questions/index.tsx#59#38#59#50"
+			}
+		]
+	},
+	{
+		"id": "Have a question about stable diffusion, fine tuning models, or just how best to utilize a prompt? Ask it here! Clever people in the community can help you get the most out of your creations! Lost?",
+		"defaultMessage": "Have a question about stable diffusion, fine tuning models, or just how best to utilize a prompt? Ask it here! Clever people in the community can help you get the most out of your creations! Lost?",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/questions/index.tsx#64#18#67#47"
+			}
+		]
+	},
+	{
+		"id": "Order canceled",
+		"defaultMessage": "Order canceled",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/subscribe/[plan].tsx#42#11#42#25"
+			}
+		]
+	},
+	{
+		"id": "Checkout",
+		"defaultMessage": "Checkout",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/subscribe/[plan].tsx#62#62#64#8"
+			}
+		]
+	},
+	{
+		"id": "Manage your billing information",
+		"defaultMessage": "Manage your billing information",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/subscribe/[plan].tsx#81#62#83#8"
+			}
+		]
+	},
+	{
+		"id": "There are no following to show",
+		"defaultMessage": "There are no following to show",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/[username]/[list].tsx#120#58#122#28"
+			}
+		]
+	},
+	{
+		"id": "There are no followers to show",
+		"defaultMessage": "There are no followers to show",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/[username]/[list].tsx#152#58#154#28"
+			}
+		]
+	},
+	{
+		"id": "There are no hidden users to show",
+		"defaultMessage": "There are no hidden users to show",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/[username]/[list].tsx#185#60#187#30"
+			}
+		]
+	},
+	{
+		"id": "Ban User",
+		"defaultMessage": "Ban User",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/user/[username]/index.tsx#320#10#320#27"
+			}
+		]
+	},
+	{
+		"id": "Yes, ban the user",
+		"defaultMessage": "Yes, ban the user",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/user/[username]/index.tsx#322#20#322#48"
+			}
+		]
+	},
+	{
+		"id": "Remove all content",
+		"defaultMessage": "Remove all content",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/[username]/index.tsx#450#41#452#40"
+			}
+		]
+	},
+	{
+		"id": "Manage model categories",
+		"defaultMessage": "Manage model categories",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/[username]/index.tsx#471#39#473#38"
+			}
+		]
+	},
+	{
+		"id": "Images",
+		"defaultMessage": "Images",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/[username]/index.tsx#583#79#585#20"
+			}
+		]
+	},
+	{
+		"id": "Posts",
+		"defaultMessage": "Posts",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/[username]/index.tsx#586#78#588#20"
+			}
+		]
+	},
+	{
+		"id": "Models",
+		"defaultMessage": "Models",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/[username]/index.tsx#589#77#591#20"
+			}
+		]
+	},
+	{
+		"id": "Successfully updated models category",
+		"defaultMessage": "Successfully updated models category",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/user/[username]/manage-categories.tsx#132#14#132#61"
+			}
+		]
+	},
+	{
+		"id": "Failed to update models category",
+		"defaultMessage": "Failed to update models category",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/user/[username]/manage-categories.tsx#138#14#138#55"
+			}
+		]
+	},
+	{
+		"id": "N/A",
+		"defaultMessage": "N/A",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/[username]/manage-categories.tsx#203#100#205#18"
+			}
+		]
+	},
+	{
+		"id": "Model Category Manager",
+		"defaultMessage": "Model Category Manager",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/[username]/manage-categories.tsx#236#38#236#60"
+			}
+		]
+	},
+	{
+		"id": "Clear Selection",
+		"defaultMessage": "Clear Selection",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/[username]/manage-categories.tsx#245#25#247#24"
+			}
+		]
+	},
+	{
+		"id": "Set Category",
+		"defaultMessage": "Set Category",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/[username]/manage-categories.tsx#255#27#256#41"
+			}
+		]
+	},
+	{
+		"id": "Metric Period Mode",
+		"defaultMessage": "Metric Period Mode",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/[username]/models.tsx#43#69#43#95"
+			}
+		]
+	},
+	{
+		"id": "Since you are viewing your own profile, we show all of your creations and the period filter instead only adjusts the timeframe for the metrics that are displayed.",
+		"defaultMessage": "Since you are viewing your own profile, we show all of your creations and the period filter instead only adjusts the timeframe for the metrics that are displayed.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/[username]/models.tsx#43#96#46#10"
+			}
+		]
+	},
+	{
+		"id": "Manage your Account - Civitai",
+		"defaultMessage": "Manage your Account - Civitai",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/account.tsx#25#12#25#49"
+			}
+		]
+	},
+	{
+		"id": "Take a moment to review your account information and preferences to personalize your experience on the site",
+		"defaultMessage": "Take a moment to review your account information and preferences to personalize your experience on the site",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/account.tsx#31#43#34#12"
+			}
+		]
+	},
+	{
+		"id": "Clear History",
+		"defaultMessage": "Clear History",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/downloads.tsx#78#11#80#10"
+			}
+		]
+	},
+	{
+		"id": "No downloads in your history",
+		"defaultMessage": "No downloads in your history",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/downloads.tsx#107#41#109#10"
+			}
+		]
+	},
+	{
+		"id": "Notifications | Civitai",
+		"defaultMessage": "Notifications | Civitai",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/notifications.tsx#59#12#59#43"
+			}
+		]
+	}
+]
