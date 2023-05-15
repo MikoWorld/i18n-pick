@@ -13,7 +13,7 @@ const needImport = [];
 const importStatement = config.importStatement;
 const callStatement = config.callStatement;
 const targetDir = config.targetDir;
-const sourceMapPath = path.join(process.cwd(), targetDir, 'zh-CH.json');
+const sourceMapPath = path.join(process.cwd(), targetDir, 'en.json');
 
 
 function replace(text, chinese, replaceString) {
