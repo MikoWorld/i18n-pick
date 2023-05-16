@@ -1,0 +1,658 @@
+[
+    {
+        "id": "Hide",
+        "defaultMessage": "Hide",
+        "source": [
+            {
+                "type": "text",
+                "location": "../MikoMiko/src/components/Account/HiddenTagsSection.tsx#30#4#30#16"
+            },
+            {
+                "type": "text",
+                "location": "../MikoMiko/src/components/Account/HiddenTagsSection.tsx#45#64#45#76"
+            },
+            {
+                "type": "text",
+                "location": "../MikoMiko/src/components/Account/HiddenTagsSection.tsx#48#40#48#52"
+            },
+            {
+                "type": "text",
+                "location": "../MikoMiko/src/components/Account/HiddenTagsSection.tsx#64#40#64#52"
+            },
+            {
+				"type": "text",
+				"location": "../MikoMiko/src/components/Account/TagsCard.tsx#25#4#25#16"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Account/TagsCard.tsx#40#64#40#76"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Account/TagsCard.tsx#43#40#43#52"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Account/TagsCard.tsx#59#40#59#52"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Account/TagsCard.tsx#62#49#62#61"
+			},
+            {
+				"type": "text",
+				"location": "../MikoMiko/src/components/Modals/BlockModelTagsModal.tsx#15#68#15#80"
+			},
+            {
+				"type": "text",
+				"location": "../MikoMiko/src/pages/index.tsx#32#40#32#52"
+			}
+        ]
+    },
+    {
+		"id": "Model",
+		"defaultMessage": "Model",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Account/HiddenTagsSection.tsx#34#19#34#26"
+			},
+            {
+				"type": "text",
+				"location": "../MikoMiko/src/components/Account/TagsCard.tsx#29#19#29#26"
+			},
+            {
+				"type": "text",
+				"location": "../MikoMiko/src/components/CategoryTags/CategoryTags.tsx#92#17#92#24"
+			},
+            {
+				"type": "text",
+				"location": "../MikoMiko/src/components/ImageMeta/ImageMeta.tsx#35#2#35#16"
+			},
+            {
+				"type": "text",
+				"location": "../MikoMiko/src/components/ListSearch/ListSearch.tsx#105#12#105#27"
+			},
+            {
+				"type": "text",
+				"location": "../MikoMiko/src/components/Modals/BlockModelTagsModal.tsx#18#19#18#26"
+			},
+            {
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#28#21#28#28"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#29#9#29#16"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#30#10#30#17"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#31#15#31#22"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#32#22#32#29"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#33#17#33#24"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#34#15#34#22"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#84#24#84#31"
+			},
+            {
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#436#25#436#32"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#441#25#441#32"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#446#25#446#32"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#451#25#451#32"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#456#25#456#32"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#461#25#461#32"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#466#25#466#32"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/Forms/ModelUpsertForm.tsx#74#17#74#24"
+			},
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/models/[id]/[[...slug]].tsx#443#37#443#55"
+			}
+        ]
+    },
+	{
+		"id": "Models",
+		"defaultMessage": "Models",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/ListSearch/ListSearch.tsx#105#12#105#27"
+			}
+		]
+	},
+    {
+		"id": "Badge",
+		"defaultMessage": "Badge",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Account/ProfileCard.tsx#180#33#180#38"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Account/ProfileCard.tsx#319#70#319#83"
+			}
+		]
+	},
+    {
+		"id": "Enter",
+		"defaultMessage": "Enter",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/ActionIconSelect/ActionIconSelect.tsx#127#13#127#20"
+			}
+        ]
+    },
+    {
+		"id": "Checkpoint",
+		"defaultMessage": "Checkpoint",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkResourceManager.tsx#10#2#10#14"
+			},
+            {
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/Forms/ModelUpsertForm.tsx#85#6#87#14"
+			},
+            {
+				"type": "text",
+				"location": "../MikoMiko/src/pages/moderator/link-demo.tsx#48#8#48#26"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/moderator/link-demo.tsx#67#8#67#26"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/moderator/link-demo.tsx#89#8#89#26"
+			}
+        ]
+    },
+    {
+		"id": "Hypernetwork",
+		"defaultMessage": "Hypernetwork",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkResourceManager.tsx#11#2#11#16"
+			}
+		]
+	},
+	{
+		"id": "Controlnet",
+		"defaultMessage": "Controlnet",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/CivitaiLink/CivitaiLinkResourceManager.tsx#15#2#15#14"
+			}
+		]
+	},
+    {
+		"id": "Image",
+		"defaultMessage": "Image",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Gallery/GalleryFilters.tsx#252#19#252#26"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Gallery/GalleryFilters.tsx#373#19#373#26"
+			},
+            {
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Image/Detail/ImageDetail.tsx#55#37#55#55"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Image/Filters/ImageCategories.tsx#10#17#10#24"
+			},
+            {
+				"type": "text",
+				"location": "../MikoMiko/src/components/Image/Infinite/ImageCategories.tsx#11#17#11#24"
+			}
+        ]
+    },
+    {
+		"id": "Clip skip",
+		"defaultMessage": "Clip skip",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/ImageMeta/ImageMeta.tsx#36#2#36#26"
+			}
+		]
+	},
+    {
+		"id": "Error",
+		"defaultMessage": "Error",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ImageUpload/ImageUploadPreview.tsx#109#32#109#37"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/VerifiedShield/VerifiedShield.tsx#34#46#34#53"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/VerifiedText/VerifiedText.tsx#42#46#42#53"
+			},
+            {
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/webhooks/scan-result.ts#!!!#!!!#!!!#!!!"
+			}
+        ]
+    },
+    {
+		"id": "Users",
+		"defaultMessage": "Users",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/ListSearch/ListSearch.tsx#111#70#111#84"
+			}
+		]
+	},
+	{
+		"id": "Tags",
+		"defaultMessage": "Tags",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/ListSearch/ListSearch.tsx#114#61#114#74"
+			}
+        ]
+    },
+	{
+		"id": "Label",
+		"defaultMessage": "Label",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/VotableTags/VotableTagAdd.tsx#18#31#18#38"
+			}
+		]
+	},
+	{
+		"id": "Import",
+		"defaultMessage": "Import",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/webhooks/scan-result.ts#15#32#15#40"
+			}
+		]
+	},
+	{
+		"id": "Scan",
+		"defaultMessage": "Scan",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/webhooks/scan-result.ts#15#42#15#48"
+			}
+		]
+	},
+    {
+		"id": "Negative",
+		"defaultMessage": "Negative",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelFileAlert/ModelFileAlert.tsx#57#14#57#30"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#28#30#28#40"
+			},
+            {
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#451#34#451#44"
+			}
+        ]
+    },
+    {
+		"id": "Config",
+		"defaultMessage": "Config",
+		"source": [
+            {
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#31#40#31#48"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#34#24#34#32"
+			},
+            {
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#436#34#436#42"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#466#34#466#42"
+			}
+        ]
+    },
+    {
+		"id": "Training Data",
+		"defaultMessage": "Training Data",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#28#42#28#57"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#29#34#29#49"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#30#19#30#34"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#31#57#31#72"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#32#31#32#46"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#33#26#33#41"
+			},
+            {
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#436#51#436#66"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#441#50#441#65"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#446#50#446#65"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#451#46#451#61"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#456#34#456#49"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#461#34#461#49"
+			}
+        ]
+    },
+    {
+		"id": "Text Encoder",
+		"defaultMessage": "Text Encoder",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#29#18#29#32"
+			},
+            {
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#441#34#441#48"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#446#34#446#48"
+			}
+        ]
+    },
+    {
+		"id": "Pruned Model",
+		"defaultMessage": "Pruned Model",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#31#24#31#38"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#84#33#84#47"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelVersions/ModelVersionDetails.tsx#213#20#213#34"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelVersions/ModelVersionDetails.tsx#219#20#219#34"
+			}
+		]
+	},
+    {
+		"id": "Archive",
+		"defaultMessage": "Archive",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#35#10#35#19"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#36#14#36#23"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Model/ModelForm/FileList.tsx#37#10#37#19"
+			},
+            {
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#469#61#469#70"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#470#65#470#74"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Resource/FilesProvider.tsx#471#61#471#70"
+			}
+        ]
+    },
+    {
+		"id": "Post",
+		"defaultMessage": "Post",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/Post/Detail/PostDetail.tsx#53#36#53#53"
+			}
+		]
+	},
+    {
+		"id": "Enter",
+		"defaultMessage": "Enter",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/ActionIconSelect/ActionIconSelect.tsx#127#13#127#20"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/Post/Edit/EditPostTags.tsx#223#17#223#24"
+			}
+        ]
+    },
+    {
+		"id": "Rating",
+		"defaultMessage": "Rating",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/components/ResourceReview/ResourceReviewForm.tsx#22#45#22#59"
+			}
+		]
+	},
+    {
+		"id": "Pending",
+		"defaultMessage": "Pending",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/VerifiedShield/VerifiedShield.tsx#34#25#34#34"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/VerifiedText/VerifiedText.tsx#42#25#42#34"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/webhooks/scan-result.ts#!!!#!!!#!!!#!!!"
+			}
+		]
+	},
+    {
+		"id": "Danger",
+		"defaultMessage": "Danger",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/VerifiedShield/VerifiedShield.tsx#34#36#34#44"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/VerifiedText/VerifiedText.tsx#42#36#42#44"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/webhooks/scan-result.ts#!!!#!!!#!!!#!!!"
+			}
+		]
+	},
+    {
+		"id": "Success",
+		"defaultMessage": "Success",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/VerifiedShield/VerifiedShield.tsx#34#55#34#64"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/VerifiedText/VerifiedText.tsx#42#55#42#64"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/webhooks/scan-result.ts#!!!#!!!#!!!#!!!"
+			}
+        ]
+    },
+    {
+		"id": "Moderation",
+		"defaultMessage": "Moderation",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/components/VotableTags/VotableTags.tsx#141#42#141#63"
+			}
+		]
+	},
+    {
+		"id": "User",
+		"defaultMessage": "User",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "../MikoMiko/src/pages/user/[username]/index.tsx#378#45#378#62"
+			}
+		]
+	},
+    {
+		"id": "Registration",
+		"defaultMessage": "Registration",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/auth/[...nextauth].ts#151#8#151#28"
+			}
+		]
+	},
+    {
+		"id": "Download",
+		"defaultMessage": "Download",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/download/models/[modelVersionId].ts#182#8#182#24"
+			}
+		]
+	},
+    {
+		"id": "Hash",
+		"defaultMessage": "Hash",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/mod/clean-up.ts#44#52#44#58"
+			},
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/webhooks/scan-result.ts#15#50#15#56"
+			}
+		]
+	},
+    {
+		"id": "Published",
+		"defaultMessage": "Published",
+		"source": [
+			{
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/v1/model-versions/by-hash/[hash].ts#24#66#24#85"
+			},
+            {
+				"type": "text",
+				"location": "../MikoMiko/src/pages/api/v1/model-versions/by-hash/index.ts#31#33#31#52"
+			}
+        ]
+    }
+]
